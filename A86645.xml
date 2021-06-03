@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Real comforts, extracted from moral and spiritual principles. Presented in a sermon, preached at the funeral of that reverend divine Mr. Thomas Ball late minister of Gods Word at Northampton, upon the 21. day of June, A.D. 1659. With a narrative of his life and death. By John Howes, M.A. rector of Abington near Northampton.</title>
+            <author>Howes, John, 1613-1685.</author>
+         </titleStmt>
+         <extent>Approx. 122KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86645</idno><idno type="EEBO-CITATION">99862792</idno>
+  <idno type="VID">114968</idno>
+  <idno type="EEBO-PROQUEST">2240960224</idno>
+  
+            <idno type="STC">Wing H3149</idno>
+            <idno type="STC">Thomason E988_29</idno>
+            <idno type="STC">ESTC R202554</idno>
+            <idno type="PROQUEST">99862792</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862792e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114968)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Real comforts, extracted from moral and spiritual principles. Presented in a sermon, preached at the funeral of that reverend divine Mr. Thomas Ball late minister of Gods Word at Northampton, upon the 21. day of June, A.D. 1659. With a narrative of his life and death. By John Howes, M.A. rector of Abington near Northampton.</title>
+                  <author>Howes, John, 1613-1685.</author>
+               </titleStmt>
+               <extent>[4], 54, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by S. Griffin for R. Royston, and are to sold [sic] at the Angel in Ivy-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660. [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Thomason received his copy 30 June 1659.</note>
+                  <note>Annotations on Thomason copy: "June 30 1659"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ball, Thomas, 1589 or 90-1659.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Funeral sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114968:1"/>
+            <p>Real Comforts, Extracted from <hi>MORAL</hi> and <hi>SPIRITƲAL</hi> PRINCIPLES.</p>
+            <p>Presented in A SERMON, Preached at the Funeral of that Re<g ref="char:EOLhyphen"/>verend Divine Mr. <hi>THOMAS BALL</hi> Late Minister of Gods Word at <hi>Northampton,</hi> upon the 21. day of <hi>June, A. D.</hi> 1659.</p>
+            <p>With a Narrative of his Life and Death:</p>
+            <p>
+               <hi>By</hi> JOHN HOWES, <hi>M.A. Rector of</hi> Abing<g ref="char:EOLhyphen"/>ton <hi>near</hi> Northampton.</p>
+            <q>
+               <p>Profectò beati erimus, cùm corporibus relictis, &amp; cupiditatum, &amp; amulationum erimus expertes. <bibl>
+                     <hi>Cicero</hi> Tuscul. quaest. lib. <hi>1.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <bibl>
+                     <hi>S.</hi> Chrysost. <hi>hom.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. Griffin</hi> for <hi>R. Royston,</hi> and are to sold at the <hi>Angel</hi> in <hi>Ivy-lane,</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114968:2"/>
+            <pb facs="tcp:114968:2"/>
+            <head>To the Vertuous, and his much Honoured Friend M<seg rend="sup">rs.</seg>
+               <hi>Susanna Griffith,</hi> Wife to M<seg rend="sup">r.</seg>
+               <hi>Thomas Griffith,</hi> of <hi>London</hi> Merchant.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I seriously consider with what an exemplary flood of pious Tears, you embalmed the dead Body of that Learned, &amp; Reverend Minister, your most dear and honoured <hi>Father;</hi> As also with what a conquering earnestness of sweet <hi>Affection,</hi> you frequently urged the <hi>Publication</hi> of his Fu<g ref="char:EOLhyphen"/>neral-Sermon: I cannot morally chuse, but with ve<g ref="char:EOLhyphen"/>ry much observance, present it as a due debt, into your hands.</p>
+            <p>The cause of my slowness to this present, was not want of real desires to serve you, nor want of rea<g ref="char:EOLhyphen"/>diness to comply with the <hi>Rational Sollicitati<g ref="char:EOLhyphen"/>ons</hi> of many other worthy Friends: But First, my own <hi>Particular Sickness,</hi> whereby I was sum<g ref="char:EOLhyphen"/>moned by <hi>All-mighty God,</hi> to a silent <hi>Dialogue</hi> with my own <hi>Soul,</hi> and likewise incited to fix my Eye with an humble <hi>Confidence</hi> upon the merits of my blessed Saviour, and the never-fading <hi>Law-<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>l</hi> of glorious eternity.</p>
+            <pb facs="tcp:114968:3"/>
+            <p>Secondly, The sad Confusions of these misera<g ref="char:EOLhyphen"/>bly distracted Times, in which the blackest Er<g ref="char:EOLhyphen"/>rours, the Bratts of Night, and Interest creeping out of the lowest Pit of <hi>Darknesse,</hi> did stare the brightest <hi>Gospel-Truths</hi> in the face: and did stamp upon the staves of<note n="(a)" place="margin">
+                  <hi>Zech</hi> 11.10.14.</note>
+               <hi>Beauty,</hi> &amp; of <hi>Bands,</hi> with the brazen<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> foot of <hi>Pride,</hi> and the iron foot of <hi>Power.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Psalm</hi> 36.11.</note>But seeing the supreame <hi>Providence,</hi> whose Paths are in the<note n="(c)" place="margin">
+                  <hi>Rom.</hi> 11.33. <hi>Psalm.</hi> 77.19.</note> Labyrinths of <hi>Unsearchable Wisdom,</hi> and whose footsteps are like the Tract of a Ship in the swelling Ocean, hath been graci<g ref="char:EOLhyphen"/>ously pleased to restore me to my former Health, the sweetest of external Comforts, And hath likewise by astonishing, and to future Ages almost incredible Dispensations, commanded <hi>Light</hi> to spring out of <hi>Darkness;</hi> I have reviewed my <hi>Notes,</hi> and do now submit them to your <hi>Pleasure.</hi>
+            </p>
+            <p>The God of all Comfort who is the bountiful <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> of endless Mercies, make up this great loss un<g ref="char:EOLhyphen"/>to you, with a plentiful return of whatsoever is truly desirable, which is the Prayer</p>
+            <closer>
+               <signed>
+                  <hi>Of your affectionate Friend, and faith<g ref="char:EOLhyphen"/>ful Servant in the Lord</hi> JOHN HOWES.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:114968:3"/>
+            <head>REAL COMFORTS, Extracted from <hi>MORAL,</hi> and <hi>SPIRITƲAL PRINCIPLES.</hi> Presented in A SERMON Preached at the Fu<g ref="char:EOLhyphen"/>neral of Mr. <hi>THOMAS BALL.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 THES. 4.18.</hi>
+                  </bibl>
+                  <p>Wherefore comfort one another with these words.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">F</seg>Unerall Sermons aime at Two Ends. 1. The<note n="(a)" place="margin">Vide <hi>Nys<g ref="char:EOLhyphen"/>sen.</hi> orat. in fu<g ref="char:EOLhyphen"/>nere <hi>Miletii. — Nazianz</hi> orat; 10. in lau<g ref="char:EOLhyphen"/>dem <hi>Caesarii</hi> fratris; orat. 11 in laudem <hi>Gor<g ref="char:EOLhyphen"/>gon<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae</hi> Soro<g ref="char:EOLhyphen"/>ris, &amp;c.</note> Honour of the Dead, that they who die in the Lord, may live in the Memories of Men. 2. The Comfort of the Living, that they who through Mercy are yet alive, may not through the violence of Affection, be opprest with Grief, for them who are dead. This latter End was the moving cause, why the <hi>Primitive</hi>
+               <note n="(b)" place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Chrysost.</hi> hom. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>Jam fama volans totius urbis populum ad exequias congregabat. <hi>Sonabant Psalmi, &amp;c. Hieron.</hi> tom. 1. Epist. 30. cap. ult.</p>
+               </note>
+               <hi>Church</hi> did bring the dead to the Grave <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with singing of Psalmes, and with Prayers, as St. <hi>Chrysostome</hi> and St. <hi>Hierome</hi> testifie. And this
+<pb n="2" facs="tcp:114968:4"/> latter End is the principal cause, why I have chosen this Text at this time, as very seasonable, and in some degree necessary:</p>
+            <p>For which way so ever I look, I behold many Eyes glazed with Tears, and in those watery glasses I see streams of Grief flowing forth. Which way so ever I look, I behold many faces clouded with sadness, and in those black clouds behold showers of Sorrow gushing out. Therefore it is very season<g ref="char:EOLhyphen"/>able to present some Text, which may be like the<note n="(c)" place="margin">
+                  <hi>Exo.</hi> 14.16</note> Rod of <hi>Moses,</hi> to divide these waves of Sorrow, lest they make a Deluge. And likewise it is in some degree necessary to provide a portion of holy Scripture, which may be like the<note n="(d)" place="margin">2 <hi>Kings</hi> 2.14.</note> Mantle of <hi>E<g ref="char:EOLhyphen"/>lijah,</hi> to restrain these swelling floods of Grief, lest they over-run their bankes. Such a Text, such a portion of Scripture, is this, which I have read unto you. <hi>Wherefore comfort one another with these words.</hi>
+            </p>
+            <p>The first word of the Text, <hi>Wherefore,</hi> is a Con<g ref="char:EOLhyphen"/>junction illative, and doth like the<note n="(e)" place="margin">
+                  <hi>Jani</hi> simu<g ref="char:EOLhyphen"/>lacrum duplici facie, &amp; bi<g ref="char:EOLhyphen"/>frons effinge batur &amp;c. Alex ab Alex gen. dier. lib 1. cap. 14.</note>
+               <hi>Roman Janus</hi> look forward and backward; as it looks forward, it prescribes a <hi>Duty,</hi> as it looks backward, it speaks forth a <hi>Reprehension.</hi> The occasion of the <hi>Reprehen<g ref="char:EOLhyphen"/>sion</hi> is this. The <hi>Thessalonians,</hi> who were <hi>Graecians</hi> that dwelt in <hi>Thessalonica</hi> (one of the chief Cities in <hi>Macedonia</hi>) were passionately affected, and extream<g ref="char:EOLhyphen"/>ly afflicted, with the death of their dear Friends, and near Relations. The Apostle doth not con<g ref="char:EOLhyphen"/>demn their natural Affection; For Christ himself, as Man, was<note n="(f)" place="margin">
+                  <hi>Luke</hi> 19.41, 42 <hi>John</hi> 11.35, 36. <hi>Matthew</hi> 9.36 — de passi<g ref="char:EOLhyphen"/>onib<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in animâ Christi, <hi>Aqui.</hi> 3<seg rend="sup">•</seg>.15.4.0.</note> full of Affection; and it is a<note n="(g)" place="margin">
+                  <hi>Rom.</hi> 1.31</note> heathenish sin to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>without natural affecti<g ref="char:EOLhyphen"/>on.</hi>
+               <pb n="3" facs="tcp:114968:4"/> He doth not prohibit<note n="(h)" place="margin">Est ali<g ref="char:EOLhyphen"/>quis &amp; dolen<g ref="char:EOLhyphen"/>di decor, hic sapienti ser<g ref="char:EOLhyphen"/>vandus est. <hi>Sen.</hi> Epist. lib. 1 Epist. 99. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chrysost.</hi> hom. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> moral mourning, for then he should either approve a Cynical turpitude, which is destructive to humane society, or else he should allow a Stoical dulnesse, w<seg rend="sup">ch</seg> doth assimilate man unto a stock. But the Apostle doth advise them to regulate their <hi>natural affections,</hi> that they be not <hi>Exorbitant.</hi> He directs them to moderate their Grief, that they do not violate the boundaries of <hi>Christian Hope,</hi> verse 13. <hi>But I would not have you to be ignorant, Brethren, concerning them which are asleep that you sor<g ref="char:EOLhyphen"/>row not, as others, which have no Hope.</hi> And that he may pe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>swade them to this vertuous, and truly-re<g ref="char:EOLhyphen"/>ligious moderation of Grief, he mingles his bitter Pill with two precious Cordials.</p>
+            <p>The first Cordial is drawn from a principle of the Gospel, namely, <hi>the Resurrection of the dead,</hi> (a prin<g ref="char:EOLhyphen"/>ciple which the highest natural Reason, elevated by the industrious improvement of those imbred Principles, which <hi>Arianus</hi> calls<note n="(i)" place="margin">
+                  <hi>Arian.</hi> Epi. lib. 1. cap. 22. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>praenoti<g ref="char:EOLhyphen"/>ons,</hi> could never mount unto, unlesse it was<note n="(k)" place="margin">
+                  <hi>Acts</hi> 17.32. <hi>Aug.</hi> tom. 6. lib. de <hi>Epicurëis</hi> et <hi>Stoicis,</hi> cap. 1.</note> as<g ref="char:EOLhyphen"/>sisted with the wings of super-natural revelation) the Apostle bids them comfort themselves in this, that the Bodies of their Friends, are so far from <hi>an<g ref="char:EOLhyphen"/>nihilation,</hi> as the <hi>Atheists</hi> imagine, or from a <hi>finall dissolution</hi> into irrecoverable atomes, as the <hi>Epicu<g ref="char:EOLhyphen"/>reans</hi> dream, or from a perpetual elementary <hi>trans<g ref="char:EOLhyphen"/>mutation,</hi> as the <hi>Peripateticks</hi> maintain, that they shall rise again out of the earth in their<note n="(l)" place="margin">Vide <hi>Au<g ref="char:EOLhyphen"/>gust.</hi> de civit. Dei, lib. 22. cap. 12. et cap. 19. &amp; cap. 20.</note> true di<g ref="char:EOLhyphen"/>mensions, and be admitted into the retinue of the King of Glory, when he comes in his triumph, <hi>v.</hi> 14. <hi>For if we believe that Jesus died, and rose again: even so them also which sleep in Jesus, will God bring with him.</hi>
+            </p>
+            <pb n="4" facs="tcp:114968:5"/>
+            <p>The second Cordial is drawn from another prin<g ref="char:EOLhyphen"/>ciple of our Faith, namely, <hi>the everlasting blessedness of the Saints with God;</hi> The which blessedness consists partly in the<note n="(m)" place="margin">Beatitu<g ref="char:EOLhyphen"/>do formalis consistit, &amp; in actu intellect<g ref="char:EOLhyphen"/>ûs, quo essen<g ref="char:EOLhyphen"/>tia divina vi<g ref="char:EOLhyphen"/>detur, &amp; in actu volunta<g ref="char:EOLhyphen"/>tis, quo beatus illâ visâ frui<g ref="char:EOLhyphen"/>tur, &amp; in utro<g ref="char:EOLhyphen"/>que actu, &amp; postremò etiā in his omnibus simul, quae ad perfectionem tum animae tum corporis absolutam, in coelo pertine<g ref="char:EOLhyphen"/>bunt, <hi>Greg.</hi> de Val. to. 2. disp. 1. quest. 3. punct. 4. — <hi>Rich.</hi> de med. villâ in 4<seg rend="sup">•</seg>. sent. dist. 49 art. 1. quest. 6. — <hi>Aq.</hi> 12; 4.6.0.</note> eternal vision of God, by an act of the Understanding perfectly beholding him who is <hi>the Truth.</hi> And it consists partly in the eternal fru<g ref="char:EOLhyphen"/>ition of God, by an act of the Will abundantly im<g ref="char:EOLhyphen"/>bracing him who is the <hi>greatest Good.</hi> And it consists partly in the excellent disposition of the Body, to be perfectly subject to the Soul, <hi>Verse</hi> 17. <hi>Verb. ult. And so shall we be for ever with the Lord.</hi>
+            </p>
+            <p>And now our Apostle having presented these delectable Cordials to his weeping <hi>Thessalonians,</hi> he doth like a wise Physician enjoyn the use of them; for what actual healing is in the rarest <hi>Balsoms,</hi> if you do not apply them? what operative vertue is in the most soveraign Antidotes, if you do not receive them? what complacentious sweetnesse is in the droppings of the Hony-combe, if you do not taste them? and what Soul-contentment is there in these spiritual cordials, if the fainting <hi>Thessalonians</hi> do only Tantalize, and not inwardly apply them? therefore our Apostle requires the present application of them. <hi>Comfort one another with these words.</hi>
+            </p>
+            <p>The Text without any violence falls asunder in<g ref="char:EOLhyphen"/>to two parts. First, a Precept, <hi>Comfort one another.</hi> Secondly, a Rule to guide our obedience to the Pre<g ref="char:EOLhyphen"/>cept, <hi>with these words.</hi>
+            </p>
+            <p>First, of the Precept. <hi>Comfort one another.</hi> The word in the Original is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which properly signifies <hi>advocare, vocare ad se,</hi> to call unto; and in this sense it is onely once used in all the New Te<g ref="char:EOLhyphen"/>stament<note n="(n)" place="margin">Semel ad<g ref="char:EOLhyphen"/>voco — <hi>Pa<g ref="char:EOLhyphen"/>sor.</hi> Lex: in N. T. tit. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> (as <hi>Pasor</hi> observes) namely, <hi>Acts</hi> 28.20
+<pb n="5" facs="tcp:114968:5"/> —usually in Scripture it signifies<note n="(o)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Interdum pre<g ref="char:EOLhyphen"/>cari, interdum consolari, in<g ref="char:EOLhyphen"/>terdum <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> signi<g ref="char:EOLhyphen"/>ficat: Vid. <hi>Bezae</hi> Annot. in <hi>Luc.</hi> 3.18. &amp; in <hi>Matth.</hi> 2.18. <hi>Num.</hi> 23.</note> three things. 1. To exhort, <hi>Heb.</hi> 3.13. —2. To beseech, <hi>Rom.</hi> 12.1. — 3. To comfort, 2 <hi>Cor.</hi> 7.6. —The two former significations may be found in profane Authors, but the last signification which my Text carries, is onely to be found in Holy Scripture</p>
+            <p>The English word to comfort, is derived from the Latine word <hi>Confortare,</hi> to strengthen, for Grief is the <hi>privative</hi> contrary to Comfort, doth weaken the Vitals, obstruct the Animals, exhaust the radi<g ref="char:EOLhyphen"/>cal moisture, extinguish the natural heat, oppresse the Appetite, and causeth the Pulse, which is <hi>Na<g ref="char:EOLhyphen"/>tures Clock</hi> to strike false; and the Heart which is <hi>Natures Primum Mobile,</hi> to move slowly. Therefore whatsoever doth strengthen the Vitals, refresh the Animals, cherish the radical moisture, quickē the na<g ref="char:EOLhyphen"/>tural heat, recover the Appetite, and procure a nimble and equal motion in the Pulse and heart, is vulgarly called <hi>Comfort.</hi> But all this is onely cor<g ref="char:EOLhyphen"/>poreal, and sensitive comfort, and may be plenti<g ref="char:EOLhyphen"/>fully supplied from the wel-stored Herbal of an ex<g ref="char:EOLhyphen"/>pert <hi>Galenist,</hi> or from the subtile limbeck of a stu<g ref="char:EOLhyphen"/>dious <hi>Paracelsian.</hi>
+            </p>
+            <p>Therefore there is a second sort of Comfort, which is incorporeal, and spiritual; answerable to which there is another Grief, which is inward and invisi<g ref="char:EOLhyphen"/>ble; The proper effect of which Grief, is the weak<g ref="char:EOLhyphen"/>ning of the rational Soul, in the moral Operations of it, by a misty over-clouding the <hi>Ʋnderstanding,</hi> a passionate perplexing the <hi>Will,</hi> a tumultuous di<g ref="char:EOLhyphen"/>sturbing the <hi>Memory,</hi> and a violent untuning the <hi>Affections.</hi> Such a Grief as this cannot be cured by any collegiate Dispensatory. It is not the <hi>Apho<g ref="char:EOLhyphen"/>rismes</hi>
+               <pb n="6" facs="tcp:114968:6"/> of <hi>Hippocrates,</hi> nor the Rules of <hi>Avicenna,</hi> nor the Councels of <hi>Fernelius,</hi> that can<note n="(p)" place="margin">
+                  <hi>Prov.</hi> 18.14. <hi>Jer.</hi> 2.13.</note> heal this distemper of Soul. It is not the harmonious Musick of <hi>Juball,</hi> nor the melting voice of <hi>Herodias,</hi> nor the sparkling cups of <hi>Belshazzar,</hi> nor the Magnificent Palace of <hi>Nebuchadnezzer,</hi> nor the savory meat which <hi>Isaac</hi> loved, that can<note n="(q)" place="margin">
+                  <hi>Ecclesiastes</hi> 21, 8. <hi>Dan.</hi> 5.6.</note> expel this Melan<g ref="char:EOLhyphen"/>choly of Spirit. There must be a<note n="(r)" place="margin">
+                  <hi>Jer.</hi> 3.23. <hi>Psal.</hi> 73.16, 17 2 <hi>Kings</hi> 6.27.</note> Cordial of spiritual Comforts prepared, that the drooping hea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t may be strengthened, or else it will faint, lan<g ref="char:EOLhyphen"/>guish, and die.</p>
+            <p>The great Physician who doth prescribe the in<g ref="char:EOLhyphen"/>gredients of this <hi>Divine Cordiall,</hi> is<note n="(s)" place="margin">
+                  <hi>Isa.</hi> 57.19</note> Almighty God, for he onely hath the<note n="(t)" place="margin">
+                  <hi>Hos.</hi> 6.1, 2.</note> Balm of <hi>Gilead,</hi> and can drop it into the bleeding Heart. He onely hath the Oile of the good <hi>Samaritan,</hi> and can poure it in<g ref="char:EOLhyphen"/>to the wounded Soul. He onely hath those sove<g ref="char:EOLhyphen"/>raign<note n="(u)" place="margin">
+                  <hi>Rev.</hi> 22.2.</note> Leaves of the Tree of Life, which are ap<g ref="char:EOLhyphen"/>pointed for the healing of the <hi>Nations.</hi>
+            </p>
+            <p>It is true there are other Physicians, who do con<g ref="char:EOLhyphen"/>fidently pretend to very excellent Restoratives, &amp; boldly proclaim the vertue of their <hi>Antidotes,</hi> as all<g ref="char:EOLhyphen"/>sufficient; but upon serious examination, their<note n="(w)" place="margin">
+                  <hi>Isa.</hi> 50.11 <hi>Jer.</hi> 2.13.</note> choisest <hi>Drugs</hi> will appear corrupted, their most spirituous <hi>Distillations</hi> will be found <hi>sophisticated,</hi> themselvs will be proved <hi>Mountebanks,</hi> and all their comforts (though many of them in their kind may be useful) will be but like the <hi>Lapwing,</hi> w<seg rend="sup">ch</seg> makes a great noise, &amp; hath but a little body, or else but like to Plaisters, which may skin a sore, but cannot heal it at the bottom.</p>
+            <p>Wherefore be exhorted in the sorrows of your Souls, and in all the griefs of your Spirit; to look
+<pb n="7" facs="tcp:114968:6"/> up to this Almighty Physician, who is the <hi>Father of Spirits.</hi> Say with <hi>David, Psalm</hi> 6.2. <hi>Have mercy on me O Lord, for I am weak, O Lord heal me for my bones are vexed.</hi> Say with <hi>Moses, Psalm</hi> 90.14. <hi>O satisfie us early with thy mercy, that we may rejoice and be glad all our dayes.</hi> Suppose your Sorrows are as deep as the <hi>wa<g ref="char:EOLhyphen"/>ters of Noah,</hi> God can send a<note n="(x)" place="margin">
+                  <hi>Gen.</hi> 8.1.</note>
+               <hi>Zephyrus</hi> to abate them. Suppose they are as bitter as the <hi>waters of Marah,</hi> God can provide a<note n="(y)" place="margin">
+                  <hi>Exod.</hi> 15 23.25.</note> Tree to sweeten them. Many a Child of Light doth<note n="(z)" place="margin">
+                  <hi>Isa.</hi> 50.10</note> walk in darknesse, but God can so light your <hi>Candle,</hi> that you shall be as it were in<note n="(a)" place="margin">
+                  <hi>Ex.</hi> 10.23.</note>
+               <hi>Goshen,</hi> and your dark<g ref="char:EOLhyphen"/>nesse shall be turned<note n="(b)" place="margin">
+                  <hi>Psal.</hi> 18.28</note> to Light. He that made the great World with a Word of his Mouth, is able to comfort the little World, which is <hi>MAN,</hi> with a<note n="(c)" place="margin">
+                  <hi>Isa.</hi> 30.21, 22</note> Word of his Spirit. He that brought <hi>Israel</hi> out of <hi>Pharaoh's</hi> slavery, can lead them through a red Sea, and make a Rock<note n="(d)" place="margin">1 <hi>Cor.</hi> 10.4 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> to follow them in a dry Wildernesse. And thus God hath, and it may be doth comfort some by the ministry of Angels, or by the evidence of <hi>Miracles,</hi> or by extraordinary ra<g ref="char:EOLhyphen"/>vishments of Spirit. But because God doth usually act in a way of ordinary Providence, and hath ap<g ref="char:EOLhyphen"/>pointed a<note n="(e)" place="margin">
+                  <hi>Is.</hi> 38.21.</note> lump of Figs for <hi>Hezekiahs</hi> boile: And a pool of<note n="(f)" place="margin">Joh. 5.4, 7</note>
+               <hi>Bethesday,</hi> into which the impotent man must be put, if he would be healed. Therefore let nōe of us tempt God by an over-daring presumption, but wait upon God for comfort in the obedient use of the means. Let us consult those bills of Com<g ref="char:EOLhyphen"/>fort, which he by his holy Prophets &amp; Apostles hath filed up in sacred Scripture, and by the infallible di<g ref="char:EOLhyphen"/>rection of these sure Receipts, <hi>comfort one another.</hi>
+            </p>
+            <p>But may not Christians comfort themselves? yes,
+<pb n="8" facs="tcp:114968:7"/> doubtlesse they may, and likewise they ought so to do. We find<note n="(g)" place="margin">1 <hi>Sam.</hi> 30.4, 6</note>
+               <hi>David</hi> encouraging himself in the Lord his God, when he, and the people with him, had wept at <hi>Ziklag,</hi> untill they had power to weep no more. We find<note n="(h)" place="margin">Acts 27.20, 25.</note>
+               <hi>Paul</hi> cheering up him<g ref="char:EOLhyphen"/>self with a <hi>Promise,</hi> when he was tossed with so cloudy a Tempest, that neither <hi>Sun,</hi> nor <hi>Moon,</hi> nor <hi>Stars</hi> appeared for many Dayes. But there are few such Worthies now alive, who have attained so high a measure of Faith, both in point of Evidence, &amp; Adherence, that they can be Physicians to them<g ref="char:EOLhyphen"/>selves. Indeed some there are who can say with<note n="(i)" place="margin">
+                  <hi>Job</hi> 13.15</note>
+               <hi>Job, Though thou killest me, yet I will trust in thee;</hi> Who can nobly resolve with the<note n="(k)" place="margin">
+                  <hi>Psal.</hi> 23.4</note>
+               <hi>Psalmist. Though I walk through the valley of the shadow of death, I will fear no evill.</hi> Who can with a holy displeasure in<g ref="char:EOLhyphen"/>terrogate with<note n="(l)" place="margin">
+                  <hi>Acts</hi> 21.13.</note>
+               <hi>Paul, What mean you to weep, and to break my heart?</hi> Yea, credible Histories tell us, that there were some vertuous men among the Heathen, who could by the Principles of <hi>Moral Philosophy,</hi> present a handsom face of Comfort to the eyes of Men, under the secret gripes, and silent rackings of their tenderest <hi>Affections.</hi> Thus did the<note n="(m)" place="margin">Conemur mederi nobis ipsis, <hi>&amp;c. Cice<g ref="char:EOLhyphen"/>ro</hi> de consol. in principio.</note> most eloquent of <hi>Latine</hi> Oratours, compose a Book <hi>De Consolatione,</hi> to comfort himself and his Relations, under the early death of his Beloved <hi>Tulliola.</hi> Thus did the gallant <hi>Quintus Fabius</hi> deliver a consolatory. Oration in publick, to comfort himself and the mournful Senate, upon the immature death of his<note n="(n)" place="margin">
+                  <hi>Quintus Fabius</hi> Vir Consularis, qui jam magnas res gesserit. — Unico mortuo laudationem in soro dixit, <hi>Cicero</hi> ut supra.</note> onely Son, who was both the darling of <hi>Rome,</hi> and the prop of his Ancient Family. But these
+<pb n="9" facs="tcp:114968:7"/> worthies are — <hi>tot quot Thebarum portae, vel di<g ref="char:EOLhyphen"/>vitis ostia Nili.</hi> here and there one. the greater part of Mankind are like the<note n="(o)" place="margin">
+                  <hi>Ju sat.</hi> 7. n. 159. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Epict.</hi> cap. 31.</note>
+               <hi>Arcadian</hi> Youth — <hi>cui laevâ in parte mamillae nil salit.</hi> without Spirit or Judgement under the <hi>(p)</hi> pressure of self calamity. Yea the greater part even of<note n="(q)" place="margin">
+                  <hi>Jer.</hi> 12.1. Hab. 1.2, 3.</note> Saints, by reason of their imperfect sanctification, are prone to feele inward convulsions with <hi>Jacob,</hi> to expresse outward despondencies with <hi>Rebecca,</hi> and to say upon the struglings of sorrow in their minds what<note n="(r)" place="margin">
+                  <hi>Gen</hi> 25.22</note> she said upon the strugling of the children in her Womb. If it be so, <hi>why am I thus?</hi> and therefore there is great need to <hi>comfort one ano<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>Besides, who knowes how soon himself may need Comfort. <hi>Adam</hi> in Innocency lost Paradise, and man by sin doth lose Comfort.</p>
+            <q>
+               <l>
+                  <note n="(s)" place="margin">
+                     <hi>Seneca</hi> in Thyeste act. 3.</note>Quem dies vidit veniens superbum,</l>
+               <l>Hunc dies vidit fugiens jacentem.</l>
+            </q>
+            <p>Whom the Morning Sun beholds glistering with Majesty, the Evening Sun beholds tumbling in Mi<g ref="char:EOLhyphen"/>sery. The <hi>Hieroglyphick</hi> of a Moon doth aptly repre<g ref="char:EOLhyphen"/>sent all sublunary things, for they are only con<g ref="char:EOLhyphen"/>stant in unconstancy; the highest tide may sink into a very low ebb, the loveliest day may set in a thun<g ref="char:EOLhyphen"/>dring storme, and the brightest comforts be over<g ref="char:EOLhyphen"/>clouded with a sad Eclipse. <hi>Sesostris</hi> the proud King of <hi>Egypt</hi> was taught an Emblem of the vicissitude of humane glory and adversity, in the<note n="(t)" place="margin">
+                  <hi>Cammerar.</hi> med. hist. cent. 1. cap. 12.</note> turning wheeles of the royal chariot, which four captive
+<pb n="10" facs="tcp:114968:8"/> Princes did draw, for one of the Princes did cour<g ref="char:EOLhyphen"/>agiously tell him, that those golden spokes which were now advanced, and pointed towards Heaven, were soon after depressed, and did roule in the dust.<note n="(u)" place="margin">
+                  <hi>Lipsius</hi> de Const. lib. 1. cap. 16.</note>
+               <hi>Nihil stabile aut firmum arbiter ille rerum esse volu<g ref="char:EOLhyphen"/>it, praeter ipsum.</hi> The great Master of Heaven and Earth will have nothing immutable besides himself. If any thing in the World be honoured with that priviledge, it must be the <hi>Coelestial Bodies,</hi> which some call <hi>Quinta Essentia,</hi> a substance specifically di<g ref="char:EOLhyphen"/>stinct from the <hi>Four Elements,</hi> but<note n="(w)" place="margin">Stella illa nova quae <hi>Anno</hi> 1572. in con<g ref="char:EOLhyphen"/>stellatione <hi>Cassiopeiae</hi> ap<g ref="char:EOLhyphen"/>paruit. Et <hi>Anno</hi> 1574. e<g ref="char:EOLhyphen"/>vanuit — censeo stellam illam <hi>in Fir<g ref="char:EOLhyphen"/>mamento, ubi stellae fixae</hi> sunt extitisse — Vid. <hi>Clavii</hi> comm<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. in 1. cap. sphaerae. pag. 217, 219.</note>. learned <hi>Ma<g ref="char:EOLhyphen"/>thematicians</hi> demonstrate, that <hi>New Stars</hi> have ap<g ref="char:EOLhyphen"/>peared, &amp; vanished in the <hi>Starry Heaven,</hi> and there<g ref="char:EOLhyphen"/>fore they are capable of generation, &amp; corruption. As for <hi>Terrestrial Substances,</hi> the Iron begets his own rust, and the Oake breeds his own worm. The fairest flower fades though never pulled, and the full eared corn hangs his head, and rotts, though it be never reaped. We all dwell in <hi>Houses of Clay,</hi> saith<note n="(x)" place="margin">
+                  <hi>Job</hi> 4.19.</note>
+               <hi>Job, in Tabernacles of flesh,</hi> saith <hi>Paul,</hi>
+               <note n="(y)" place="margin">2 <hi>Cor.</hi> 5.1</note> and therefore are unavoidably exposed to every blu<g ref="char:EOLhyphen"/>stering tempest. We are <hi>all in the Body,</hi> saith the<note n="(z)" place="margin">
+                  <hi>Heb.</hi> 13.3</note> Apostle, and therefore are indispensably subject to all diseases and infirmities, which invade the Body, or the Mind by the Body. The strongest Head<note n="(a)" place="margin">Egregium versum audi, &amp; dignum Publio. <hi>Cuivis</hi> potest accidere quod cuiquam potest. <hi>Sen.</hi> ad <hi>Marc.</hi> cap. 9.</note> may turn round with a swimming <hi>Vertigo;</hi> the stout<g ref="char:EOLhyphen"/>est Heart may shake with a trembling <hi>Palsey;</hi> The ablest Understanding sink, with a stupifying <hi>Apo<g ref="char:EOLhyphen"/>plexy;</hi> and the most envied Prosperity expire with a <hi>Falling Sicknesse,</hi> that is a sudden Adversity. If then you desire comfort from others, under the <hi>Convulsion fits</hi> of discomfort, express a sympathi<g ref="char:EOLhyphen"/>zing Spirit, and <hi>Comfort one another.</hi>
+            </p>
+            <pb n="11" facs="tcp:114968:8"/>
+            <p>A Word or two for Application. The first, <hi>To them who lie under the heavy burden of Discomfort.</hi> The second, <hi>To those who ought to be Comforters.</hi>
+            </p>
+            <p>First, <hi>To those who lie under the burden of Discomfort;</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> That they do not add the weights both of sin, &amp; of guilt to their present pressures, by imitating <hi>Rachel, who</hi>
+               <note n="(b)" place="margin">
+                  <hi>Mat.</hi> 2.18</note>
+               <hi>refused to be comforted.</hi> I desire them to con<g ref="char:EOLhyphen"/>sider, That it is the<note n="(c)" place="margin">
+                  <hi>Isa.</hi> 45.9.</note> height of folly to repine at his actings, who is the<note n="(d)" place="margin">1 <hi>Tim.</hi> 6.15.</note> King of Kings, and Lord of Lords. That he who afflicts them is their GOD, and their SAVIOUR, and will<note n="(e)" place="margin">
+                  <hi>Psalm.</hi> 31.7.</note>
+               <hi>Know their Soul in the saddest Adversity.</hi> That he who by his<note n="(f)" place="margin">
+                  <hi>Job</hi> 1.21</note> just Prerogative hath took away one of their Com<g ref="char:EOLhyphen"/>forts, hath in much mercy<note n="(g)" place="margin">
+                  <hi>Lam.</hi> 3.22.</note> left many others: and yet hath an undoubted<note n="(h)" place="margin">
+                  <hi>Jer.</hi> 18.6. 1 <hi>Chron.</hi> 29.11, 12.</note> Royalty without the shadow of real wrong, to send for all the rest when ever he pleaseth. That all the Creatures in the World are<note n="(i)" place="margin">
+                  <hi>Psalm</hi> 10<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.29. <hi>Mal.</hi> 3.6</note> mutable; because they are Crea<g ref="char:EOLhyphen"/>tures; and<note n="(k)" place="margin">
+                  <hi>Micah</hi> 6.13.</note> miserable so far as sinful. That our sins of daily incursion, and much more our sins of inexcusable presumption, are, and ought to be the<note n="(l)" place="margin">
+                  <hi>Jer.</hi> 31.19</note> proper objects of our serious Sorrow. These and such like Meditations should be admitted into the recesses of our Mind, that at length some beam of spiritual Comfort might refresh the troubled Soul.</p>
+            <p>But if these Meditations are too intellectuall for the present dulnesse of a violent Affection, then be advised to apply these sensitive remedies, in the intervals of Passiō, namely; That he whō we lament, is but<note n="(m)" place="margin">Non re<g ref="char:EOLhyphen"/>liquitille nos, sed antecessit. <hi>Sen.</hi> ad Polyb. cap. 28</note> gone before us, and we must of<note n="(n)" place="margin">Omnes eodem cogi<g ref="char:EOLhyphen"/>mur, omnium versatur urna, &amp;c. — <hi>Hor.</hi> car. lib. 2. od. 3.</note> Ne<g ref="char:EOLhyphen"/>cessity follow after him: That <hi>immoderate Tears</hi> are
+<pb n="12" facs="tcp:114968:9"/> the prodigality of Affection, and<note n="(o)" place="margin">Quid est autem quod plus valeat ad ponendum do<g ref="char:EOLhyphen"/>lorem, quàm cùm est intel<g ref="char:EOLhyphen"/>lectum nihil profici. <hi>Cicero</hi> Tuscul: quaest: lib. 2.</note> cannot restore the dead to life. That the wound which bleedes inwardly, is oft times Mortal: and the Grief which over flowes the Heart is seldom curable.</p>
+            <p>I shall conclude this with the words of the<note n="(q)" place="margin">
+                  <hi>Sen:</hi> ad Polyb. cap. 37.</note> Moralist; <hi>Fluant lachrymae, sed eaedem desinant: tra<g ref="char:EOLhyphen"/>hantur ex imo pectore gemitus, sed iidem &amp; finiantur.</hi> Let thy Tears flow; but let them ebb at length to a low water. Let thy sighs be breathed from the bottom of thy heart, but let them at last be broken off. Or I shall rather conclude with the exemplary practice of that devout and holy Matron <hi>Paula,</hi> who was (as<note n="(r)" place="margin">
+                  <hi>Hier.</hi> to. 1. Epist. 27. cap. 9</note> St. <hi>Hierom</hi> saith) a Woman exercised with sorrows, and did usually refresh her perplexed Spi<g ref="char:EOLhyphen"/>rit with the Heavenly Musick of <hi>Davids</hi> Psalmes. The Psalm she commonly sung was the 42. <hi>Psalm,</hi> the Verses which did taste like <hi>Manna,</hi> were the 5th. and the 11th. the words are these, <hi>Why art thou cast down O my Soul? and why art thou disquieted within me? hope thou in God for I shall yet praise him, who is the health of my Countenance and my God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> To those who ought to be <hi>Comforters,</hi> that they undertake the work with all readiness, &amp; discharge it with all sincerity and faithfulnesse, for (to wave other Arguments) it is a<note n="(s)" place="margin">Decus est mortali bene<g ref="char:EOLhyphen"/>sacere morta<g ref="char:EOLhyphen"/>lem; &amp; haec ad aeternam glo<g ref="char:EOLhyphen"/>riam via. <hi>Plin.</hi> nat. hist. lib. 2.</note> most worthy imploy<g ref="char:EOLhyphen"/>ment to be instrumental in the recovery of a faint<g ref="char:EOLhyphen"/>ing heart. <hi>Haec qui faciet</hi> (saith<note n="(t)" place="margin">
+                  <hi>Cicero</hi> orat. 40. pro <hi>M. Mar<g ref="char:EOLhyphen"/>cello.</hi> Numb. 8.</note>
+               <hi>Cicero) non ego eum summis viris comparo, sed simillimum Deo judico. Who<g ref="char:EOLhyphen"/>soever doth these things,</hi> I do not parallel him with the most renowned <hi>Heroës,</hi> but judge him to be most like <hi>God himself.</hi> The Heathens <hi>Theologie</hi> cal<g ref="char:EOLhyphen"/>led their supream God <hi>Jupiter,</hi> and that name in the
+<pb n="13" facs="tcp:114968:9"/>
+               <hi>Etymology</hi> of it, is<note n="(u)" place="margin">
+                  <hi>Jovem</hi> Latini veteres à juvando ap<g ref="char:EOLhyphen"/>pellavêre cun<g ref="char:EOLhyphen"/>demque alio vocabulo jun<g ref="char:EOLhyphen"/>cto patrem dixerunt. <hi>A. Gell.</hi> noct. Att. lib. 5. cap. 12.</note>
+               <hi>juvans Pater, the comfo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting Fa<g ref="char:EOLhyphen"/>ther.</hi> Our Scripture which is the <hi>Christians Divinity,</hi> calls the true God,<note n="(w)" place="margin">
+                  <hi>John</hi> 14.16, 26.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Comforter,</hi> and that word in that signification is, <hi>Peculium Christianae Religionis,</hi> the proper goods of <hi>Christian Religion.</hi> It may be observed, that in all the New Testament, God is not once called the <hi>Lord of Hosts,</hi> which is a title of terror, but he is often called the<note n="(x)" place="margin">2 <hi>Cor.</hi> 1.3.</note>
+               <hi>Father of Mercies, the</hi>
+               <note n="(y)" place="margin">1 <hi>John</hi> 4.14</note>
+               <hi>Saviour of the World, the</hi>
+               <note n="(z)" place="margin">
+                  <hi>Rom.</hi> 3.25. 1 <hi>John</hi> 2.2.</note>
+               <hi>propi<g ref="char:EOLhyphen"/>tiation for our sins,</hi> which are precious names of Comfort; Let us therefore be followers of God as dear Children, <hi>and comfort one another.</hi>
+            </p>
+            <p>Neither let any fear that the Meal in his Barrel will waste, or the Oile in his Cruse decay, because he doth so freely spend it; for this imaginary sub<g ref="char:EOLhyphen"/>straction will prove in God Arithmetick a real mul<g ref="char:EOLhyphen"/>tiplication. Spiritual things are like the beauteous <hi>Tulips,</hi> w<seg rend="sup">ch</seg> when they spread their inamouring leavs in the aër, multiply themselves in the root. Jesus Christ did then<note n="(a)" place="margin">
+                  <hi>Mat.</hi> 14.19, 20.</note> augment the Loaves, when they were distributed among the multitude. You see the Sun-beams are by reflection doubled, and the heat of them is by refraction encreased, when they have been bountifully darted upon the Earth, <hi>Spiritual Parsimony</hi> is the broad road to <hi>Soul-poverty,</hi> and he that<note n="(b)" place="margin">
+                  <hi>Mat.</hi> 25.2<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> wraps up his Talent in a <hi>Napkin,</hi> is justly punished with the total privation of it. Wherefore hearken to the Exhortation of the Apostle, 1 <hi>Thess.</hi> 5.11. <hi>Comfort your selves together, and edifie one ano<g ref="char:EOLhyphen"/>ther, even as also you do.</hi>
+            </p>
+            <p>But lest any miscarry (as some do) in the dis<g ref="char:EOLhyphen"/>charge of this charitable, and necessary Duty, give me leave to present a few Directions.</p>
+            <pb n="14" facs="tcp:114968:10"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Comfort one another</hi> in a right Order. The God of Heaven is the<note n="(c)" place="margin">1 <hi>Cor.</hi> 14.33, 40.</note> God of Order, and he hath by the<note n="(d)" place="margin">
+                  <hi>Vide Hooker</hi> Eccl. Pol lib. 5. num. 76. &amp; 77.</note> light of Nature, the Custom of all civilized Nations, and the<note n="(e)" place="margin">
+                  <hi>Eph.</hi> 4.11. <hi>Acts</hi> 20.28.</note> Law of the Gospel, declared, that there is a real distinction between those <hi>who minister about holy things,</hi> and those who are to be instructed in the same. It is readily granted, That every gifted Ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>istian may administer Comfort to them that want it <hi>Charitativè,</hi> from the universal Duty of Love; but it is denyed, that any can dis<g ref="char:EOLhyphen"/>pense it, or apply it<note n="(f)" place="margin">
+                  <hi>Davenant</hi> in Col 3.16. pag. 328. 1 <hi>Cor.</hi> 4.1.</note>
+               <hi>Authoritativè,</hi> that is, by special call, and peculiar commission, but only the Ambassadours of Christ, and the <hi>Stewards of the Oracles of God.</hi>
+            </p>
+            <p>There is an inestimable Comfort, more precious then the <hi>Gold of Ophir,</hi> which is prepared for all them who mourn in <hi>Sion,</hi> who cry out of the burden of their sins, and are truly contrite for them. This <hi>Comfort</hi> is called <hi>Absolution</hi> or <hi>Remission of sins,</hi> which is the<note n="(g)" place="margin">1 <hi>Joh.</hi> 1.9.</note>
+               <hi>Gospel-Cordial</hi> to an humbled and distres<g ref="char:EOLhyphen"/>ed Conscience, but none can communicate this unutterable sweet Comfort (whereby many a Soul hath gon to Heaven with inward Peace) but<note n="(h)" place="margin">
+                  <hi>Mat.</hi> 18.18</note> on<g ref="char:EOLhyphen"/>ly a <hi>Lawful Minister.</hi> Christ who is the Head of the Church hath given to them, and onely to them this delegate <hi>Authority,</hi> John 20.23. <hi>Whose sins you remit, shall be remitted, and whose sins you retain, shall be re<g ref="char:EOLhyphen"/>tained.</hi>
+            </p>
+            <p>There is an unvaluable <hi>Comfort,</hi> (more precious then all the Jewels which lie upon the <hi>Arabian</hi> shore) which is provided for every Christian who hungers and thirsts after Gospel-righteousnesse, &amp; this is the Sacrament of the Lords Supper, which
+<pb n="15" facs="tcp:114968:10"/> the<note n="(i)" place="margin">1 <hi>Cor.</hi> 10.<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> holy Apostle calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the Communion of the Body, and the Communion of the Blood of Jesus Christ.</hi> Which the<note n="(k)" place="margin">Ap<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Patres hoc sa<g ref="char:EOLhyphen"/>cramentum appellatur. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> —<hi>Casaubon</hi> ad annal. Eccl. Ex 16. Num. 39. Patres Eucha<g ref="char:EOLhyphen"/>ristiam passim appellant. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ibid. Num. 37.</note> ancient godly Fathers call, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Bread of Life,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Mithridate</hi> of the Soul. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the spiritual food.</hi> And which was so much valued by the Zealous Primitive Christians, that many of them re<g ref="char:EOLhyphen"/>ceived it every Week, and many of them longed to receive it on their<note n="(l)" place="margin">Vid. Histo<g ref="char:EOLhyphen"/>riam <hi>Serapionis</hi> lectu dignissi<g ref="char:EOLhyphen"/>mam apud <hi>Euseb.</hi> lib. 6. Eccl. Hist. cap. 43 Patres nomi<g ref="char:EOLhyphen"/>nârunt <hi>Viatica,</hi> ipsa sacramen<g ref="char:EOLhyphen"/>ta —<hi>Casau<g ref="char:EOLhyphen"/>bon</hi> ad annal. Eccl. exercit. 16. Num. 43. pag. 398.</note> Death beds, as their <hi>Viaticum,</hi> their spiritual journy-provision, to strengthen their Faith under the conflicts of Death which were ap<g ref="char:EOLhyphen"/>proaching. But none can consecrate this blessed Sacrament, but onely a <hi>lawful Minister.</hi> Christ Jesus said<note n="(m)" place="margin">
+                  <hi>Lu.</hi> 22.19</note> onely to them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>this do ye.</hi> If any other person though a supream Magistrate; if any other creature though an<note n="(n)" place="margin">
+                  <hi>Chrysost.</hi> de sacerdotio lib. 3. &amp; lib. 6.</note> Angel or an Archan<g ref="char:EOLhyphen"/>gel, presume to do it, he violates one of the most sacred mysteries of <hi>Christian Religion;</hi> and instead of distributing a holy Sacrament, deludes the cre<g ref="char:EOLhyphen"/>dulous multitude with a piece of <hi>ordinary Bread, and some drops of common Wine.</hi>
+            </p>
+            <p>To add no more. There is a heavenly <hi>Comfort,</hi> appointed by divine right for the conversion of men to Christ, and for the Edification of them in doctrinal, and habitual Faith, until they come to a <hi>perfect Man.</hi> This Comfort is the preaching of Gods Word, which howsoever under-valued by men of carnal hearts, is<note n="(o)" place="margin">1 <hi>Cor.</hi> 1.18 21.</note> called by the Apostle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Power of God.</hi> But none can preach <hi>with au<g ref="char:EOLhyphen"/>thority but a lawful Minister.</hi> None can preach with the Comfort of <hi>a Divine Promise,</hi> but they who ac<g ref="char:EOLhyphen"/>cording to the<note n="(q)" place="margin">
+                  <hi>T t.</hi> 1.5. 1 <hi>Tim.</hi> 4 14</note> precept, and<note n="(r)" place="margin">
+                  <hi>Acts</hi> 14.23 1 <hi>Tim.</hi> 4 14.</note> practice of the holy Apostles, and according to the observance
+<pb n="16" facs="tcp:114968:11"/> of the<note n="(s)" place="margin">Me<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ò Sanctorum Pa<g ref="char:EOLhyphen"/>trum venera<g ref="char:EOLhyphen"/>biles sanctio<g ref="char:EOLhyphen"/>nes, cùm de sucerdotum el<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctione lo<g ref="char:EOLhyphen"/>querentur, <hi>&amp;c. Leo</hi> M Epist. 87.</note> Universal Church of Christ, in all ages, have been lawfully ordained to that sacred em<g ref="char:EOLhyphen"/>ployment. Wherefore let me use the words of Saint <hi>Paul,</hi> 1 Thess. 5.12. <hi>I beseech you, Brethren, know them which labour amongst you, and are over you in the Lord, and admonish you,and esteem them very highly in love for their work sake, and be at peace amongst your selves.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Comfort one another in the right season.</hi> There is a little Branch which growes upon the spreading Tree of Time, which the <hi>Hebrewes</hi> call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Greeks</hi> call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Latines Opportunitas,</hi> and we in our en<g ref="char:EOLhyphen"/>glish tongue, the <hi>Season,</hi> which derives a<note n="(t)" place="margin">
+                  <hi>Eccles.</hi> 3.1.11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Act.</hi> 1 1.7.</note> sweet<g ref="char:EOLhyphen"/>nesse, and wished successe to every created Being, and to every humane endeavour. The purest grapes are soure, the most delicious fruit unpleasant, the rarest plants invalid, if they are gathered out of their <hi>Season. Theseus, Romulus, Lycurgus,</hi> and the rest of those <hi>Worthies,</hi> which antiquity admires al<g ref="char:EOLhyphen"/>most to adoration, had missed their Garlands of Glory, if their Prudence had not seen the fore-lock of flying Time, and their Courage laid hold upon it, and their Magnanimity acted vigorously with the season, which all-guiding Providence presented to their hands. The friends of <hi>Job</hi> who gave their visits with an intent to <hi>comfort</hi> him, did wait with a mournfull silence, until that<note n="(u)" place="margin">
+                  <hi>Job</hi> 2.13.</note> Time opened a pas<g ref="char:EOLhyphen"/>sage to the swelling torrent of his Grief, and put into their hands a due <hi>Season</hi> of speaking; There<g ref="char:EOLhyphen"/>fore <hi>comfort one another in the right Season.</hi>
+            </p>
+            <p>Consider that high passions are like the<note n="(u)" place="margin">Sicut ubi <hi>Nilus</hi> ad illa<g ref="char:EOLhyphen"/>quae Catadupa nominantur, praecipitat ex altissimis mon<g ref="char:EOLhyphen"/>tib<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>: ea gens quae illum lo<g ref="char:EOLhyphen"/>cum accolit, propter mag<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udinem sonitus, sensu audiendi ca<g ref="char:EOLhyphen"/>ret. <hi>Cicero</hi> in somnio <hi>Sc pionis.</hi>
+               </note> cata<g ref="char:EOLhyphen"/>racts of <hi>Nilus,</hi> which deafen those who are under the command of them, that they are like to the rocks
+<pb n="17" facs="tcp:114968:11"/> of <hi>Adamant,</hi> which are impenetrable to a furious violence. Therefore refraine a while with pru<g ref="char:EOLhyphen"/>dential Patience. <hi>Passions</hi> must have some leisure for <hi>digestion.</hi> We know that the most scorching Sun, after the expiration of some moments will decline to the cooling West. The rowling spring-tide after the rage of some hours, will sink into a sensible ebb. The strongest Feaver upon some cri<g ref="char:EOLhyphen"/>tical dayes, will remit his malignity, and render the Patient capable of the Doctors art. The <hi>Cani<g ref="char:EOLhyphen"/>cular Star</hi> hath but his Moneth.</p>
+            <q>
+               <note n="(w)" place="margin">
+                  <hi>Boëtius</hi> de consol. lib. 1 Met. 6.</note>Signat tempora propriis aptans Officiis Deus.</q>
+            <p>God that fits seasons, doth set a signal Mark up<g ref="char:EOLhyphen"/>on them for peculiar services. It is much question<g ref="char:EOLhyphen"/>ed by Divines, whether the right reading of <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> 12.11. be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>i. e.</hi> serving the Lord as St.<note n="(x)" place="margin">
+                  <hi>Chrysost.</hi> hom. in loc. <hi>Theophylact.</hi> in loc.</note>
+               <hi>Chrysostom, Theophylact,</hi> and our English Translation reads it, or else <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, serving the season, As <hi>Erasmus, Calvin,</hi>
+               <note place="margin">
+                  <hi>Erasmus</hi> in loc: <hi>Calvin</hi> in loc. Vide <hi>Beza</hi> annotat. in loc.</note> and our Greek Testaments printed at <hi>London,</hi> with some short Notes of <hi>Causabon,</hi> and of <hi>Scaliger</hi> reads it. If this later be the right lection, then <hi>Beza's</hi> judgement is this; <hi>Velit Paulus nos studiosè omnem juvandi occasio<g ref="char:EOLhyphen"/>nem captare.</hi> The Apostle <hi>Paul</hi> commands Chri<g ref="char:EOLhyphen"/>stians, industriously to lay hold <hi>on every Season</hi> to help, <hi>and to comfort one another.</hi>
+            </p>
+            <p>
+               <hi>Comfort one another in a right manner.</hi> And to the <milestone type="tcpmilestone" unit="unspecified" n="2"/> composition of this Electuary, many Ingredients are necessarily required. There must be (I will but name them) <hi>a reall Affection, a gentle Meeknesse, a com<g ref="char:EOLhyphen"/>passionate
+<pb n="18" facs="tcp:114968:12"/> Patience, a discreet Prudence.</hi> There must be healing words for <hi>Animo aegrotanti Medicus est ora<g ref="char:EOLhyphen"/>tio,</hi> saith <hi>Socrates.</hi> Sweet discourse is the Physitian of a troubled Mind. And there must be<note n="(z)" place="margin">
+                  <hi>Pro.</hi> 24.26</note> perti<g ref="char:EOLhyphen"/>nently healing words; for several sores require se<g ref="char:EOLhyphen"/>veral salves; and different maladies call for distinct medicines. Every distemper in the Head is not cured with <hi>Hellebore,</hi> nor every paine at the Heart with <hi>Dioscordium, Job</hi> 6.25. <hi>How forcible are right words?</hi> Therefore provide proper words of <hi>comfort,</hi> accor<g ref="char:EOLhyphen"/>ding to the true nature of the Grief. If the Greif a<g ref="char:EOLhyphen"/>rise from the death of our dear friends, then our Apostle supplies us with precious words, and pre<g ref="char:EOLhyphen"/>sents them as a spiritual <hi>Cordial.</hi> And this brings me to the second part of my Text, which is the Rule to guide our Obedience to the Precept. <hi>With these words.</hi>
+            </p>
+            <q>With these words.</q>
+            <p>THis Phrase is relative, and therefore we must lay out a little time in inquiring what the words are, with which we are obliged to comfort our selves. <hi>Cajetan</hi> in his comment upon the place, conceives they are, <hi>Verba divina non humana, divine words, not humane,</hi> and so indeed they are. But yet the Apostle doth not hereby exclude all humane words of comfort, as either unlawful, or inconve<g ref="char:EOLhyphen"/>nient. The Apostle who did<note n="(a)" place="margin">
+                  <hi>Whitaker</hi> de S. scripturâ contr. 1. quaest 1. cap. 70.</note> Matriculate into Scripture an Heröick Verse of <hi>Epimenides</hi> the <hi>Cretā, Titus</hi> 1.12. —<hi>An Hemistychium of Aratus the Astro<g ref="char:EOLhyphen"/>nomer,</hi> Acts 17.28. <hi>An Iambick of Menander, the Comick Poët,</hi> 1 <hi>Cor.</hi> 15.33. — doth not prohibit, much
+<pb n="19" facs="tcp:114968:12"/> lesse excommunicate all the morall, and rationall sentences of the Heathen from <hi>Christian Service.</hi>
+            </p>
+            <p>It cannot be denyed, that the Heathens had<note n="(b)" place="margin">
+                  <hi>Gen.</hi> 1.26</note> intellectual souls (which are the rayes of Divine Perfection, and the glasse of immortal beings) gi<g ref="char:EOLhyphen"/>ven them from God, <hi>as a Creator,</hi> as well as we. They had <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note n="(c)" place="margin">
+                  <hi>Rom.</hi> 1.19.2, 14, 15</note> first Principles of natural Truths, engraven on their Understanding, and like<g ref="char:EOLhyphen"/>wise <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, common notions of Morality, im<g ref="char:EOLhyphen"/>printed upon their Cōscience, by the finger of God, <hi>as a Law-giver,</hi> as well as we. Therefore whatso<g ref="char:EOLhyphen"/>ever <hi>conclusions</hi> of Comfort are truly and properly deduced thence, ought not to be accounted, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the works of darknesse (because they<note n="(d)" place="margin">
+                  <hi>James</hi> 1.17.</note> originally flow from that God, <hi>who is the Father of Lights)</hi> but they ought in Duty to be entertained as the glimmerings of the <hi>Candle of the Lord,</hi> for so<note n="(e)" place="margin">
+                  <hi>Pro.</hi> 20.27.</note>
+               <hi>Solomon</hi> calls the rational <hi>Soul.</hi> And to be wel<g ref="char:EOLhyphen"/>comed as the emanations of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>That which may be known of God by the Light of Nature.</hi> For so St. <hi>Paul</hi>
+               <note n="(f)" place="margin">
+                  <hi>Rom.</hi> 1.19</note> calls the first Theoretical Principles. And likewise they ought to be further improved by those gracious beams of Light, which the <hi>Sun of Righteousnesse,</hi>
+               <note n="(g)" place="margin">
+                  <hi>John</hi> 1.9</note>
+               <hi>who inlightens every man that cometh into the World,</hi> hath<note n="(h)" place="margin">2 <hi>Cor.</hi> 3.18 <hi>Eph.</hi> 3.5</note> more freely, and most boun<g ref="char:EOLhyphen"/>tifully imparted unto us.</p>
+            <p>I do observe in the Writing of the Morally wise Heathen, six principal words of comfort, wherewith they did usually support themselves under the common tryal of the death of their beloved Relati<g ref="char:EOLhyphen"/>ons. The three first were some thing sensitive, and therefore proportioned to the capacities of the inferiour sort of men. The three latter
+<pb n="20" facs="tcp:114968:13"/> were more intellectual, and therefore suitable to the thoughts of the more sublime Spirits.</p>
+            <p>The first word was<note n="(i)" place="margin">
+                  <hi>Arrian</hi> E<g ref="char:EOLhyphen"/>pict. lib. 1. cap 27.</note> this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. There is a necessity of dying.<note n="(k)" place="margin">
+                  <hi>Hor.</hi> car. lib. 1. od. 28.</note>
+               <hi>Nullum saeva caput Proser<g ref="char:EOLhyphen"/>pina fugit.</hi> Cruel Death spares neither young nor old. The longest Day is shut in with the darkness of Night. And the longest life is wound up in the bottom of Death. It was but<note n="(l)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Arian.</hi> Epictet. lib. 2. cap. 22.</note>
+               <hi>Alexanders</hi> weak<g ref="char:EOLhyphen"/>nesse to command the Temple of <hi>Aesculapius</hi> to be burnt, because his favorite did die, for he himself did die not long after. <hi>Maximum ergo solatium est cogitare, id sibi accidisse, quod ante se passi sunt omnes, omnes{que} passuri,</hi> saith<note n="(m)" place="margin">
+                  <hi>Sen.</hi> ad Polyb. cap. 21.</note>
+               <hi>Seneca.</hi> It is therefore a very great comfort to consider, that such a thing is happened to us, which all men have suffered before us, and all men shall feel after us.</p>
+            <p>The second is<note n="(n)" place="margin">Supervacu<g ref="char:EOLhyphen"/>um est dolere, si nihil dolen<g ref="char:EOLhyphen"/>do proficias. <hi>Sen.</hi> lib. 1. Epist. 99.</note> this <hi>Dolendo nihil proficias.</hi> Al thy Tears, thy sighs, and heart-breaking <hi>Lamenta<g ref="char:EOLhyphen"/>tions</hi> can do no good. If thou couldst melt thy self into Tears, like <hi>Narcissus,</hi> or weep another de<g ref="char:EOLhyphen"/>luge, like that of <hi>Deucalion,</hi> yet all would be in vain. The house of Death is like the Lions cave, from which are no returning footsteps. <hi>Orpheus</hi> in the <hi>Ethnick Mythologie,</hi> could move the trees and stones to follow the Musick of his Lute, but could not with all his melodious Harmony reduce<note n="(o)" place="margin">Quod si <hi>Threicio</hi> blan<g ref="char:EOLhyphen"/>dius <hi>Orpheo,</hi> &amp;c <hi>Hor.</hi> car. lib. 1. od, 24.</note> his deceased <hi>Euridic</hi> from the power of the Grave. <hi>Nolis longum esse quod irritum est.</hi> Thou do'st not desire, that should last long, which is to no purpose.<note n="(p)" place="margin">Si fletib. fata vincantur, conferamus, eat omnis inter luctus dies — sed si nullis plan<g ref="char:EOLhyphen"/>ctibus defun<g ref="char:EOLhyphen"/>cta revocātur, — definat dolor, qui pe<g ref="char:EOLhyphen"/>rit. <hi>Sen.</hi> ad <hi>Marc.</hi> cap. 6.</note>
+               <hi>Definat dolor qui perit.</hi> Let that grief finish, which is thrown away.</p>
+            <pb n="21" facs="tcp:114968:13"/>
+            <p>A third is<note n="(q)" place="margin">Si futura mala avertit, si praesentib. medetur, si nos ex pluri<g ref="char:EOLhyphen"/>mis vel mor<g ref="char:EOLhyphen"/>borum vel a<g ref="char:EOLhyphen"/>cerbitatum periculis edu<g ref="char:EOLhyphen"/>cit, cur eam tantoperè ac<g ref="char:EOLhyphen"/>cusare veli<g ref="char:EOLhyphen"/>mus. <hi>Cicero</hi> de consol. Moriar? hoc dicis, desinam aegrotare pos<g ref="char:EOLhyphen"/>se, alligari posse, mori posse. <hi>Sen.</hi> Epist. 24.</note> this <hi>Mors est vitae miserae finis. Death is the finall end of a miserable life.</hi> We enter into the world with Tears, continue our lives with Cares, but Death brings a Writ of Ease from both. That which the Port is to the weather-beaten Mariner.] Or the <hi>Bed</hi> is to the weary <hi>Labourer,</hi> that is Death unto the Body. Death is the <hi>Panacaea</hi> to cure us of all diseases: the <hi>Habeas Corpus</hi> to set us at liberty from all restraints, the invincible castle to protect us from the raging tyranny of Malice it self. <hi>Mor<g ref="char:EOLhyphen"/>tem perfugium esse aerumnosae vitae nemo dubitare potest.</hi>
+               <note n="(r)" place="margin">
+                  <hi>Cicero</hi> de consol.</note> saith wise <hi>Artabanus</hi> to weeping <hi>Xerxes. No man</hi> (saith he) <hi>can make any doubt, that Death is the sanctu<g ref="char:EOLhyphen"/>ary of a calamitous life.</hi>
+            </p>
+            <p>A fourth is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>follow God.</hi> Submit to the Di<g ref="char:EOLhyphen"/>vine Will. This was the advice of<note n="(s)" place="margin">Instillabas auribus quoti<g ref="char:EOLhyphen"/>diè meis, <hi>Py<g ref="char:EOLhyphen"/>thagoricū</hi> illud <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Boët.</hi> de consol. lib. 1. pros. 4.</note>
+               <hi>Pythagoras,</hi> a very ancient Philosopher, who is eminent for his <hi>Aenigmatical Apothegmes. Qui Deorum voluntati re<g ref="char:EOLhyphen"/>pugnat. cum Diis gigantum more bollare videtur.</hi> He that struggles with the Will of the Deities, seemes Giant-like to fight against Heaven. Death is a Serjeant who acts by a divine commission, and they who resist the serving of those Writs, are accused by<note n="(t)" place="margin">
+                  <hi>Theophra<g ref="char:EOLhyphen"/>stus</hi> &amp; <hi>Xencora<g ref="char:EOLhyphen"/>tes</hi> eos qui communes ca<g ref="char:EOLhyphen"/>sus recusant imprudentiae at{que} injustitiae condemnat, al<g ref="char:EOLhyphen"/>ter etiám Diis ipsis adversos non dubitat appellare, &amp;c. <hi>Cic.</hi> de consol.</note>
+               <hi>Theophrastus</hi> and <hi>Xenocrates,</hi> of three heinous crimes. First, of grosse <hi>Imprudence.</hi> Secondly, of extreme <hi>Injustice.</hi> And thirdly, of <hi>Rebellion</hi> against Almighty God. <hi>Arianus</hi> hath divers excellent notions to per<g ref="char:EOLhyphen"/>swade submission to the Will of God, in his Third Book, and 24. Chapt. So likewise hath <hi>Epictetus</hi> in his <hi>Enchiridion,</hi> Chapter 11. and Chapter 22 and Chapter 36.</p>
+            <p>A fifth Comfort was<note n="(u)" place="margin">Non omnis moriar multa{que} pars mei vita<g ref="char:EOLhyphen"/>bit libitinam. <hi>Hor.</hi> Car. lib. 3. od. 30.</note>
+               <hi>Non omnis moriar,</hi> the Soul is immortall, the Body is, <hi>Pulvis &amp; umbra,</hi>
+               <pb n="22" facs="tcp:114968:14"/> crumbling dust, and a vanishing shadow, but the Soul is <hi>Divinae particula aurae,</hi> a parcell of Divine breath, and therefore priviledged from the Law of <hi>Mortality.</hi> All the sects of Philosophers<note n="(w)" place="margin">Mortalem esse docens animam, &amp;c. <hi>Lucret.</hi> de rer. nat. lib. 3.</note> ex<g ref="char:EOLhyphen"/>cept the <hi>Epicurean</hi> (whose Author was <hi>de grege por<g ref="char:EOLhyphen"/>cus,</hi> a swine or a swine-heard, rather then a Philo<g ref="char:EOLhyphen"/>sopher) acknowledged the immortality of the Soul, and therefore will rise up in Judgement a<g ref="char:EOLhyphen"/>gainst a sect of men, who say they are <hi>Christians,</hi> and yet<note n="(x)" place="margin">Primus ferè omnium putidum illud dogma de ani<g ref="char:EOLhyphen"/>marum dormi<g ref="char:EOLhyphen"/>tione in Eccle<g ref="char:EOLhyphen"/>siam introdux<g ref="char:EOLhyphen"/>it Vigilantius, — exorti deinde sunt <hi>Anabaptistae.</hi> Vide <hi>Tactica</hi> sacra lib. 3 cap. 3.</note> maintain that after the death of the Body, the Soul sleepes. O let not this brutish opinion be told in <hi>Gath,</hi> lest the mis-believing <hi>Mahometans,</hi> who lead Morally honest lives, and confesse the <hi>Souls immortality,</hi> cast dirt in the face of <hi>Christian Religion!</hi> Oh let not this <hi>Common-wealth</hi>-destroying opinion be published in <hi>Ascalon,</hi> lest the Idolatrous Pagans, who never heard of <hi>Moses,</hi> or of <hi>Christ,</hi> spit in de<g ref="char:EOLhyphen"/>testation of <hi>Christian Religion. Socrates</hi> spake more like a Christian when he told his unjust Judges,<note n="(y)" place="margin">
+                  <hi>Plato</hi> in Apologiâ <hi>So<g ref="char:EOLhyphen"/>cratis</hi> apud <hi>Cicer.</hi> Tuscul. quaest. lib. 1. haud longè à fine.</note>
+               <hi>Mortem esse migrationem in eas oras, quas qui è vitâ ex<g ref="char:EOLhyphen"/>cesserunt, incolunt.</hi> That Death was a departure in<g ref="char:EOLhyphen"/>to those Regions which they who are deceeased do inhabit. And that then he should <hi>ad eos venire qui verè judices appellentur,</hi> appear before them, who are truly called Judges. <hi>Convenire{que} eos qui justè, &amp; cum fide vixerint,</hi> and meet those who had lived righte<g ref="char:EOLhyphen"/>ously &amp; faithfully. <hi>Seneca</hi> the good Heathen, seemes to speak more like a Christian, when he thus com<g ref="char:EOLhyphen"/>forts his friend <hi>Polybius,</hi> who excessively mourned for his Brothers death.<note n="(z)" place="margin">Cap. 28.</note>
+               <hi>Ne invideris fratri tuo, tandē quiescit, tādē liber, tādem tutus, tādem aeternus est.</hi> Do not envy thy Brother, he is at rest, he is at the last a freemā, he is at last in safety, he is at the last eternal
+<pb n="23" facs="tcp:114968:14"/> And this brings me to their 6. and greatest <hi>Comfort,</hi> which being evident by Natures Light doth make the vicious Heathens inexcusable, and that is this.</p>
+            <p>
+               <hi>Mors est initium melioris vitae.</hi>
+               <note n="(a)" place="margin">Nesciam quae sedes ex<g ref="char:EOLhyphen"/>pectet animam solutā legibus humanis? — Major sum, &amp; ad ma<g ref="char:EOLhyphen"/>jora genitus &amp;c <hi>Sen.</hi> Epist. 65. Animus <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is velut ex diuti<g ref="char:EOLhyphen"/>no carcere e<g ref="char:EOLhyphen"/>missus, tandem sui juris gestit, &amp; rerum natu<g ref="char:EOLhyphen"/>rae spectaculo fruitur. <hi>Sen.</hi> ad Polyb. cap. 27.</note> Death is the beginning of a better Life. It was the general opi<g ref="char:EOLhyphen"/>nion of all the wise men among the Heathen (ex<g ref="char:EOLhyphen"/>cept that one voluptuary premētioned) that Death was like unto a Porter which turnes the Key to ad<g ref="char:EOLhyphen"/>mit vertuous men into a glorious Palace. That Death was like a <hi>dark Porch,</hi> which mortals must walk thorough, before they can be admitted into the Starry House of <hi>Blessednesse. Beatam mortem quae ad beatissimam vitam aditum aperit!</hi> O blessed Death which opens the door to a most blessed life! as <hi>Ci<g ref="char:EOLhyphen"/>cero</hi> worthily speaks, with much more to the same purpose in his book <hi>de Consolatione.</hi>
+            </p>
+            <p>This Meditation of another, and of a better life did comfort<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Epictet.</hi> cap. 66</note>
+               <hi>Socrates,</hi> when he drank that fatall <hi>Hemlock.</hi> Did support<note n="(c)" place="margin">
+                  <hi>Plutarch</hi> in vitâ <hi>Catonis</hi> Utic.</note>
+               <hi>Cato</hi> when the sword was entring his bowels: did refresh <hi>Phocion</hi> when con<g ref="char:EOLhyphen"/>demned by the <hi>Areopagus</hi> to Death. This principle writ by the finger of God upon the Soul of man, did move <hi>Curtius</hi> to leap into the gaping gulph at <hi>Rome,</hi> did move <hi>Leonidas</hi> the <hi>Spartan</hi> to dye willingly for his Country. This caused <hi>Theramenes</hi> to drink cheerfully the potion which the thirty <hi>Athenian</hi> Tyrants sent him; and perswaded the old <hi>Britains</hi> (who were instructed by their<note n="(d)" place="margin">Vos quo{que} qui fortes ani<g ref="char:EOLhyphen"/>mas, bello{que} peremptas lau<g ref="char:EOLhyphen"/>dibus in longū vates dimittitis aevum, Plurima securi sudistis carmina <hi>Bardi, Lucan.</hi> lib. 1. Num. 446. Et vos <hi>Druidae</hi> — longae, canitis si cog<g ref="char:EOLhyphen"/>nita vitae Mors media est, &amp;c. Ibidem Num. 457.</note>
+               <hi>Bards,</hi> and <hi>Drui<g ref="char:EOLhyphen"/>des</hi> of the Souls immortality, and of the feli<g ref="char:EOLhyphen"/>city of valiant men in another world) to court a noble Death. That speech of <hi>Scipio</hi> was high<g ref="char:EOLhyphen"/>ly rational.<note n="(e)" place="margin">Vide som<g ref="char:EOLhyphen"/>niū <hi>Scipionis</hi> ex <hi>Ciceronis</hi> lib. de repub. sexto excerptum.</note>
+               <hi>Omnibus qui patriam conservavernit, juverint, auxerint, certum esse in coelo, ac definitum lo<g ref="char:EOLhyphen"/>cum.</hi>
+               <pb n="24" facs="tcp:114968:15"/> There is a certain, and an appointed place in Heaven for all them who have preserved, assisted, or inlarged their Country.<note n="(f)" place="margin">Ibidem paulò post. Hi vivunt, &amp;c. — Vestra verò quae di<g ref="char:EOLhyphen"/>citur vita mors est.</note>
+               <hi>Hi vivunt qui è cor<g ref="char:EOLhyphen"/>porum vinculis, tanquam è carcere evolaverunt.</hi> They really live (saith he) who have escaped out of the fetters of their bodies, as out of a Prison. I shall con<g ref="char:EOLhyphen"/>clude this (omitting<note n="(g)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c — <hi>Ho.</hi> odys. Δ Ve<g ref="char:EOLhyphen"/>teres Philoso<g ref="char:EOLhyphen"/>phi in beatorū insulis fingunt qualis natura sit vita sapien<g ref="char:EOLhyphen"/>tûm, quos curâ omni liberatos &amp;c — <hi>Cice.</hi> de finib. lib. 5. Devenêre lo<g ref="char:EOLhyphen"/>cos laetos, &amp; amaena vireta fortunatorum nemorum, sedès{que} beatas &amp;c. <hi>Aeneid.</hi> lib 6</note> much which might be spoken) with the<note n="(h)" place="margin">
+                  <hi>Sen.</hi> ad Marc. cap. 24</note> speech of the <hi>Moralist,</hi> who perceiving that <hi>Marcia</hi> a noble <hi>Roman</hi> Matron, did pine her self with Grief for the death of her Son, doth thus comfort her. <hi>Imago tantùm filii tui periit, &amp; effigies non simillima, ipse quidem aeternus, melioris{que} nunc status est.</hi> The counterfeit of thy Son is vanish<g ref="char:EOLhyphen"/>ed, and his Effigies which was not very like him is gone: but verily he himself is eternal, and in a hap<g ref="char:EOLhyphen"/>pier condition then he was before. These and such like words of comfort dropped from the Tongues and Pens of the more learned, and vertuous Natu<g ref="char:EOLhyphen"/>ralists, whereby they endeavoured to cheere up the drooping Spirits of Men under the sad pressure of <hi>Mortality.</hi>
+            </p>
+            <p>But give me leave to tell you, that though these moral comforts, especially the three later, were great Lights in those times of <hi>Darknesse,</hi> (for a little taper in the night makes a more glorious shew then a blazing torch in the day) And though I observe that the Spirit of God doth mention them<note n="(i)" place="margin">
+                  <hi>Psal.</hi> 89.48 2 <hi>Sa.</hi> 12.22, 23. <hi>Job</hi> 3.17, 18. <hi>Acts</hi> 21.14. <hi>Eccl.</hi> 12.7 <hi>Rev.</hi> 14.13</note> all, in holy Scripture, to help the natural dulnesse of our Understanding, whereby very few men, as<note n="(k)" place="margin">Doctrina per revelatio<g ref="char:EOLhyphen"/>nem est neces<g ref="char:EOLunhyphen"/>satia—quia veritas per rationem investigata à paucis, &amp; per longum tempus, &amp; cum ad<g ref="char:EOLhyphen"/>missione multorum errorum homini proveniret. <hi>Aq.</hi> 1<seg rend="sup">a</seg>. 1.1. <hi>c.</hi>
+               </note>
+               <hi>A<g ref="char:EOLhyphen"/>quinas</hi> tells us) and that not without much labour, could attaine the knowledge of them: yet if you
+<pb n="25" facs="tcp:114968:15"/> do compare them with themselves, as they are im<g ref="char:EOLhyphen"/>proved by Scripture light; Or if you do compare them with those comforts which are purely Evan<g ref="char:EOLhyphen"/>gelical, then they will appear but as the glimmer<g ref="char:EOLhyphen"/>ings of a Glow-worm in the night, to the lustre of a bright <hi>Constellation.</hi>
+            </p>
+            <p>For all these Moral Comforts, (which are useful in their due place) are (in the writings of the Heathen) as<note n="(l)" place="margin">
+                  <hi>Rom.</hi> 1.21, 22. 1 <hi>Cor.</hi> 2.6, 7.</note> silver mixed with much drosse, as Wine allayed with too much water, and we may safely say of them, what the divine prophet as<g ref="char:EOLhyphen"/>serts of humane policies, <hi>Isa.</hi> 28.20. The bed is shorter, then a man can stretch himself in it; and the <hi>covering narrower</hi> then he can wrap himself in it. <hi>All these Moral Comforts (though irradiations of Gods na<g ref="char:EOLhyphen"/>tural image in man)</hi> are but as the water of <hi>Jacobs well,</hi> of which who ever drinks, shall not be satisfied. Or like the <hi>Antimonian Cup,</hi> which may evacuate some pituitous humors in full bodies, but<note n="(m)" place="margin">
+                  <hi>Isa.</hi> 61.1, 2.</note> cannot cure any internal wasting Infirmity.</p>
+            <p>Therefore I beseech you, to enquire after spi<g ref="char:EOLhyphen"/>ritual comforts, seek elaborately after the consola<g ref="char:EOLhyphen"/>tions of the Gospel: These and these onely, are the sure <hi>Anodynes,</hi> and the real Cordials of the faint<g ref="char:EOLhyphen"/>ing Soul. These are the Harp of <hi>David</hi> to drive away the evil Spirit, and the Dove of <hi>Noah</hi> to bring the Olive branch of inward Peace and Tranquillity. Without these you wander in a miserable Laby<g ref="char:EOLhyphen"/>rinth, and unless God reveale <hi>Christ</hi> in an extraor<g ref="char:EOLhyphen"/>dinary, or in the ordinary way, you are<note n="(n)" place="margin">Acts 4.12 <hi>John</hi> 14.6. Vid Eccl. <hi>Anglic.</hi> art. 18. Verissimum est quod scribit illustriss. Cardinali<seg rend="sup">s.</seg> Ex. omnibus mortalibus, qui inde ab exordio mundi fuerunt, neminem aeternam salutem esse consecutum nisi à Christo, &amp; per Christum. <hi>Casaubon</hi> ad annal. Eccl. Exercit.</note> sure to
+<pb n="26" facs="tcp:114968:16"/> perish everlastingly. That which <hi>Seneca</hi> affirms of<note n="(o)" place="margin">
+                  <hi>Sen.</hi> ad <hi>Helviam.</hi> cap.</note> Philosophy, and of the liberal Sciences, is one<g ref="char:EOLhyphen"/>ly true of these spiritual comforts, <hi>illa sanabant vul<g ref="char:EOLhyphen"/>nus tuum, illa omnem tristitiam tibi evellent. These will perfectly cure thy wound.</hi> These will pull up all thy sorrow by the roots. There is no dew like the dew of <hi>Hermon,</hi> and no Comforts like the Comforts of holy Scripture.</p>
+            <p>My Text presents two of these spiritual Com<g ref="char:EOLhyphen"/>forts, (and I may not at this time mention any more) but yet these two are like a Wedge of fine Gold, whose value transcends many plates of brass; or rather like two precious Jewels, whose worth surpasses many small heaps of Silver.</p>
+            <p>The first Comfort is this, That there shall be a <hi>Resurrection of the Body,</hi> Verse 14. <hi>For if we believe that Jesus died, and rose again: even so them also which sleep in Jesus will God bring with him.</hi>
+            </p>
+            <p>The second is this, <hi>That after the Resurrection of the <milestone type="tcpmilestone" unit="unspecified" n="1"/> Body, the Body as well as the Soul shall everlastingly enjoy God.</hi> Verse 17. ult. Verb, <hi>And so we shall be ever with the Lord.</hi>
+            </p>
+            <p>There shall be <hi>a Resurrection of the Body.</hi> This is a<note n="(p)" place="margin">A Philoso<g ref="char:EOLhyphen"/>phis olim ne<g ref="char:EOLhyphen"/>gatam &amp; irrisā fuisse resurre<g ref="char:EOLhyphen"/>ctionem mor<g ref="char:EOLhyphen"/>tuorum cog<g ref="char:EOLhyphen"/>noscimus aper<g ref="char:EOLhyphen"/>tè ex <hi>Act.</hi> 17.32. &amp;c. <hi>Gregor.</hi> de Val. to. 4. disp. 11. quaest. 3. puncto 1.</note> purely Scriptural Comfort. For though Phi<g ref="char:EOLhyphen"/>losophy did assure the Heathen that their Souls did not die; Yet it could not demonstrate unto them, that their Bodies which were either eat by worms, or torne in pieces by wild Beasts, or devoured by Fishes, or carbonadoed by the Fowles of the aër, or converted into the flesh and blood of the <hi>Cannibals</hi> should rise again. Dictates of sound Reason taught them, that their Spirits were of a<note n="(q)" place="margin">Vid. <hi>Alci<g ref="char:EOLhyphen"/>noum</hi> de doctr. <hi>Platonicâ,</hi> cap. 25 tit. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Coelestial Na<g ref="char:EOLhyphen"/>ture,</hi> of a Coelestial Original, and like to the deity
+<pb n="27" facs="tcp:114968:16"/> it self in regard of duration. But<note n="(r)" place="margin">
+                  <hi>Aq.</hi> S. q. 75.3.0. <hi>August.</hi> de Ci<g ref="char:EOLhyphen"/>vit. Dei lib. 22. cap. 5. &amp; cap. 20.</note> it could not re<g ref="char:EOLhyphen"/>veal unto them, that their Bodies which mouldred into dust, the which dust was tossed up and down by the restlesse Winds, and did run thorough a numberlesse number of elementary transmutations, should be recollected into the same Bodies they were before, and likewise be new-married to the very same souls they before enjoyed. This was their Tenet in reference to the Body.</p>
+            <q>
+               <l>
+                  <note n="(s)" place="margin">Catul. Epigr. <hi>5.</hi>
+                  </note>Soles occidere, &amp; redire possunt,</l>
+               <l>Nobis cùm semel occidit brevis lux</l>
+               <l>Nox est perpetua una dormienda.</l>
+            </q>
+            <p>The Sun may set in the Evening, and rise again in Morning, but when once our short day doth set, there is <hi>one perpetual night to be slept.</hi> But now behold the Excellencie of Scripture, which<note n="(t)" place="margin">
+                  <hi>Jo.</hi> 5.28, 29 1 <hi>Cor.</hi> 15. per tot.</note> cleerly dis<g ref="char:EOLhyphen"/>covers this Soul-contenting-comfort. That though our bodies die, &amp; are buried in the Earth, yet our bo<g ref="char:EOLhyphen"/>dies shall live again, &amp; rise out of the Earth. Though our bodies like weak houses of clay fall into the dirt, yet God who is the infinite Land-lord of these Houses, and the absolute Lord of the <hi>Ʋniverse,</hi>
+               <note n="(u)" place="margin">
+                  <hi>Dan.</hi> 12.2, 3. <hi>Matth.</hi> 13.43.</note> will build them up again in greater beauty by his all-mighty power. That he who made all things at the beginning from a Negative Nothing, both<note n="(x)" place="margin">1 <hi>Thess.</hi> 4.13, 14.</note> can, and will raise the body when it is dissol<g ref="char:EOLhyphen"/>ved into a comparative Nothing. That he who did beautifie the heavens with glistring starrs, did adorn the Earth with the variety of Plants, did replenish the Aër and Sea with astonishing wonders by a single <hi>Fiat,</hi> both<note n="(z)" place="margin">
+                  <hi>Rev.</hi> 20, 13</note> can, and will reduce the dead
+<pb n="28" facs="tcp:114968:17"/> Body to a new life, by an absolute <hi>Mandate.</hi> This was expresly prophesied of by <hi>Isajah,</hi> Isa. 26.19. <hi>Thy dead men shall live together with my dead Body shall they arise, awake and sing yee that dwell in the dust, for thy dew is as the dew of Herbs, the Earth shall cast out the dead.</hi>
+            </p>
+            <p>
+               <hi>But this is not all the Comfort of a Christian,</hi> for the Scripture doth not onely declare that the dead Bo<g ref="char:EOLhyphen"/>dy shall like the <hi>Phoenix</hi> arise from her cold Ashes; but also<note n="(a)" place="margin">
+                  <hi>Job</hi> 19.25</note> declares, that the very same Body, which was dead and buried, shall also rise again. You who are Husbandmen do know that when you have sowed your seed in the fields, your seed doth die, this is a representation of <hi>Mortality,</hi> and the seed doth afterwards quicken and spring again, which is a shadow of a <hi>Resurrection;</hi> But you know that seed which springs, is not the numerical seed which you sowed, for it is returned to you twenty, or thirty fold. So likewise you know that in <hi>Au<g ref="char:EOLhyphen"/>lumne</hi> the Trees do shed their leaves, this is a repre<g ref="char:EOLhyphen"/>sentation of <hi>Death,</hi> and in the <hi>Spring</hi> they are now cloathed with leaves, which is a shadow of the <hi>Resurrection;</hi> But yet no man will say, that the green leaves in the <hi>Spring,</hi> are those individual leaves which were upon the Tree in <hi>Aulumne.</hi> But now behold, and in beholding admire the Comfort of <hi>Christian Religion.</hi> That the<note n="(b)" place="margin">Haereticum est dicere eun<g ref="char:EOLhyphen"/>dem hominem non resurre<g ref="char:EOLhyphen"/>cturum, qui mortuus est, alioquin enim homo vanè fa<g ref="char:EOLhyphen"/>ctus esset, si ad finem propter quem factus esset, perveni<g ref="char:EOLhyphen"/>re non posset. <hi>Aq.</hi> 5. q. 79. 2. c.</note> very same numerical body which was sowed as seed in the womb of the earth; That the same individual Body which drop<g ref="char:EOLhyphen"/>ped like a withered leafe into the ground, shall rise again in the numerical identity, that is, with the same flesh, with the same bones, and with the same <hi>Substantial</hi> parts and Members which appertained to it. This was the Faith of <hi>Job,</hi> Chap. 19. Verse 25.
+<pb n="29" facs="tcp:114968:17"/>
+               <hi>I know that my Redeemer liveth, and that he shall stand at the latter day upon the earth; and though after my skin wormes destroy this body, yet in my flesh I shall see God; whom I shall see for my self, and my eyes shall behold and not another, though my reins be consumed within me.</hi> This was so much the faith of the Primitive Church, that some of them did use the<note n="(c)" place="margin">
+                  <hi>Ruffinus</hi> in symbolum.</note> demon<g ref="char:EOLhyphen"/>strative <hi>Pronoun [hujus]</hi> in the article of the resurre<g ref="char:EOLhyphen"/>ction of the Body. And when they repeated that Article, they struck their hands upon their breasts, saying, <hi>Credo resurrectionem carnis hujus; I do believe the Resurrection of this Body.</hi> And it may be this was one great cause, why our Apostle doth three times in three several verses preceding my Text, resem<g ref="char:EOLhyphen"/>ble the death of a Christian to a sleep, namely verse 13.14, 15. For as in a sound sleep, there is not one<g ref="char:EOLhyphen"/>ly a rest from all paine and labour, (in which sense both<note n="(d)" place="margin">Habes somnum ima<g ref="char:EOLhyphen"/>ginem mortis eam{que} quoti<g ref="char:EOLhyphen"/>diè induis. <hi>Tuscul</hi> Quaest. lib. 1. Stulte, quid est somnus, gelidae nisi mortis imago? <hi>Ovid.</hi> Amor. lib. 2<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eleg. 9.</note>
+               <hi>Cicero</hi> and divers others call death a sleep) but also there is expected an awakening from sleep after the intermission of some hours, and a cheerful arising of the very same body which did lie down to sleep. So shall it be at the resurrection of the dead; The very same Body which was put into the Grave as into a <hi>Dormitory,</hi> shall<note n="(e)" place="margin">1 <hi>Thess.</hi> 4.16</note> awaken by the voice of the Archangel, and the sound of the trump of God: And then it shall be re-united to the Soul by the All-mighty, and irresistible power of him, who<note n="(f)" place="margin">
+                  <hi>Rom.</hi> 4.17</note>
+               <hi>calleth things that are not, as though they were.</hi>
+            </p>
+            <p>But there is yet a further Comfort, that not only the same individual Body shall arise out of the Grave, but if it be the body of a Saint, it shall be enriched with many glorious perfections; these per<g ref="char:EOLhyphen"/>fections
+<pb n="30" facs="tcp:114968:18"/> are usually called<note n="(g)" place="margin">Impassibi<g ref="char:EOLhyphen"/>litas, claritas, ubtilitas; &amp; agilitas, hae quatuor sunt corporum bea<g ref="char:EOLhyphen"/>torū dispositi<g ref="char:EOLhyphen"/>ones, quae ideo Dotes vocātur quia, &amp;c. <hi>Rich.</hi> de mediâ villâ in sent. lib 4. dist. 49. art. 4. quaest. 1. c.</note>
+               <hi>Dotes Corporis,</hi> the dowry of the Body: the which dowry the God of Heaven, <hi>who is the Father of Mercies,</hi> doth bountiful<g ref="char:EOLhyphen"/>ly bestow upon the Body, at her new marriage with the Soul. Time will not suffer me to <hi>nominate these Perfections,</hi> they are four in number, and they are the pleasing subject of almost every Scholastick Quill that writes upon the Resurrection. The Apostle <hi>Paul</hi> who was wrapt up into the third Heaven, doth<note n="(h)" place="margin">Vide <hi>Nid.</hi> in decal. prae<g ref="char:EOLhyphen"/>cept 10 cap. 7. num. 4 &amp; 6. &amp; 8. &amp; 11.</note> sufficiently confirm them, 1 <hi>Cor<g ref="char:EOLhyphen"/>rinthians</hi> 15.42, 43, 44. <hi>The Body was sown in cor<g ref="char:EOLhyphen"/>ruption, it is raised in incorruption, it was sown in dishonour, it is raised in glory, it was sown in weaknesse, it is raised in power, it was sown a natural body, it is raised a spiritual body.</hi>
+            </p>
+            <p>The second <hi>Gospell-comfort</hi> is drawn from the e<g ref="char:EOLhyphen"/>ternall fruition of God, both in Body and in Soul after the Resurrection. This is a Comfort indeed, such a Comfort as can onely be digged out of the rich Mine of holy Scripture. I acknowledge that the<note n="(i)" place="margin">Philosophi existimant perfectam bea<g ref="char:EOLhyphen"/>titudinem ani<g ref="char:EOLhyphen"/>mae tunc fieri, cùm omni prorsùs corpo<g ref="char:EOLhyphen"/>re exura ad Deū simplex, &amp; sola redierit. Vid. <hi>August.</hi> de civit. Dei lib. 13. cap. 16. &amp; Annot. <hi>Ludo<g ref="char:EOLhyphen"/>vici Vives</hi> in loc.</note>
+               <hi>Stoicks,</hi> who were the worthiest sect among the <hi>Gentiles,</hi> in point of vertuous Practice, as also the <hi>Platonists,</hi> who were the most noble sect among the <hi>Gentiles,</hi> in point of high speculation, do make large discourses of the happinesse of the Soul, <hi>in statu se<g ref="char:EOLhyphen"/>parato</hi> in the state of separation from the Body; and do freely dispute of the Union that the Soul hath attained with the <hi>Summum bonum</hi> which is God, whē she is set at liberty from the Prison of the flesh: But (if I mistake not) both these sects in these sub<g ref="char:EOLhyphen"/>lime discourses, were<note n="(k)" place="margin">
+                  <hi>Platonici</hi> multa disseruerunt de <hi>supremo hominis bono,</hi> quod statue bant in eo esse ut Deo similis eva<g ref="char:EOLhyphen"/>deret, ac tandem etiam Deus. — Sed Philosophi quidem balbutire de istis aliquid fortasse noruerunt, certi verò aliquid pronunciare non potuerunt. <hi>Casaubon</hi> ad annal. Eccl: Exercit. 16 Num. 30.</note> like to Saint <hi>Peter</hi> at the
+<pb n="31" facs="tcp:114968:18"/> transfiguration of Christ, who being in an extasie talked he knew not what.</p>
+            <p>Something (it may be) they might have gleaned from Tradition; For most of the<note n="(l)" place="margin">
+                  <hi>Laertius</hi> in vitâ <hi>Platonis</hi> Democriti, &amp;c.</note> Wise-men among the <hi>Graecians</hi> did travel into <hi>Aegypt,</hi> where<note n="(m)" place="margin">
+                  <hi>Gen.</hi> 12.10.46, 6.7.</note>
+               <hi>Abraham</hi> and the Patriarchs had often been: whose excellent Knowledge in super-naturall Truths, might like to some Aromatick Drugs leave a very sweet savour behind them.</p>
+            <p>Something (it may be) they might have gathered from the Pentateuch of <hi>Moses,</hi> as<note n="(n)" place="margin">De prae<g ref="char:EOLhyphen"/>parat. Evang. lib. 11.</note>
+               <hi>Eusebius</hi> con<g ref="char:EOLhyphen"/>ceives, which <hi>Moses</hi> was<note n="(o)" place="margin">
+                  <hi>Lactant.</hi> de verâ sap. lib 4. cap. 5.</note> much ancienter then <hi>Linus, Orpheus, Homer,</hi> or any of their Poëtick Writers.</p>
+            <p>Something they might have collected from the Book of <hi>Job,</hi> which is a most<note n="(p)" place="margin">
+                  <hi>Philo Ju<g ref="char:EOLhyphen"/>daeus</hi> saith that <hi>Job</hi> lived in the dayes of <hi>I<g ref="char:EOLhyphen"/>saac. Hanners</hi> Chronogr. pa. 546.</note> ancient writing, as appears by the stile of it; or else from the writings of the Prophets, the<note n="(q)" place="margin">Adeo an<g ref="char:EOLhyphen"/>tiquiores etiam Graecis scripto<g ref="char:EOLhyphen"/>rib. Prophetae reperiuntur. <hi>Lactan.</hi> de verâ sap. lib 4. cap. 5</note> youngest of which is more venerable in regard of Antiquity, then their most famous Philosophers.</p>
+            <p>And this probability is improved, because the <hi>Aegyptian</hi> priests, who were alwaies<note n="(r)" place="margin">Primi hominum post <hi>Hebraeos Ae<g ref="char:EOLhyphen"/>gyptii</hi> hoc sci<g ref="char:EOLhyphen"/>endi desideri<g ref="char:EOLhyphen"/>um excolue<g ref="char:EOLhyphen"/>runt. &amp;c. <hi>Causinus</hi> de symbol. <hi>Aegypt.</hi> sapientiâ in prolegom. Act. 7.22.</note> eminent for their industrious searching after mystical Know<g ref="char:EOLhyphen"/>ledge, might have gained all, or some of the Books of the Old Testament in the <hi>Hebrew</hi> or the <hi>Greeke</hi> Tongue,<note n="(s)" place="margin">Versas a 70. interpre<g ref="char:EOLhyphen"/>rib. esse scripturas <hi>Graecè</hi> dubium non est — sed <hi>Clemens Alexandrinus</hi> libi. strom affirmat longè ante haec tempora <hi>Graecè</hi> conversam, at{que} à <hi>Platone</hi> lectam fuisse scripturam, &amp;c. <hi>Whitaker</hi> de S. scripturâ contr. 1. quaest. 2. cap. 3.</note> long before they were translated by the <hi>Septuagint,</hi> and might privately keep them as a Treasure in some of their famous Temples, and ha<g ref="char:EOLhyphen"/>ving skill in the <hi>Hebrew</hi> and <hi>Greeke</hi> Language,
+<pb n="34" facs="tcp:114968:19"/> stumble upon many divine Truths.</p>
+            <p>But if none of these possibilities (some of w<seg rend="sup">ch</seg> have the authority of <hi>Clemens Alexandrinus</hi> and <hi>Eusebius</hi>) are the secret fountains of those admirable speech<g ref="char:EOLhyphen"/>es, but that they are the natural results of (that which <hi>Seneca</hi> calls)<note n="(t)" place="margin">Ita est, mi <hi>Lucilli,</hi> quic<g ref="char:EOLhyphen"/>quid <hi>Vera Ra<g ref="char:EOLhyphen"/>tio</hi> cōmendat, solidum &amp; ae<g ref="char:EOLhyphen"/>ternum est. <hi>Sen.</hi> Epist. 66.</note>
+               <hi>true Reason;</hi> Yet (under fa<g ref="char:EOLhyphen"/>vour) this is certain from sacred Scripture, that their notions of these precious Truths are not one<g ref="char:EOLhyphen"/>ly<note n="(u)" place="margin">
+                  <hi>Acts</hi> 26.18 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Acts</hi> 17.27. Vid. <hi>Bezae</hi> an<g ref="char:EOLhyphen"/>not. in loc. <hi>Eph</hi> 1.18.</note> dark and confused, but likewise<note n="(w)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Rom.</hi> 1.21.</note> ming<g ref="char:EOLhyphen"/>led with much Vanity, This is manifest from their most admired writings. That their appre<g ref="char:EOLhyphen"/>hensions of these verities, are not onely mixed with<note n="(x)" place="margin">Mors nos consumit, aut emittit, <hi>Sen.</hi> Epist. 24. Mors aut finit, aut transfert. Sen. cur bonis ma<g ref="char:EOLhyphen"/>la? cap. 6, &amp;c.</note> frequent Scepticismes, but likewise de<g ref="char:EOLhyphen"/>filed with many Errours. Yea further, that Union with God which they speak of, hath no<note n="(y)" place="margin">
+                  <hi>Acts</hi> 17.18</note> menti<g ref="char:EOLhyphen"/>on of <hi>Jesus Christ, who is the Way, the Truth, and the Life,</hi> and by whom<note n="(z)" place="margin">
+                  <hi>Rom</hi> 5.2.</note> alone we have a salvificall accesse unto the Father. They knew nothing of the <hi>future fruition of God as a tri-une Majesty,</hi> that is, in the<note n="(a)" place="margin">1 <hi>Cor.</hi> 2.7, 8.</note> incomprehensible and ever blessed Trini<g ref="char:EOLhyphen"/>ty, the which fruition is solely and fully beatifical. They knew nothing of a Union with God both in Body and in Soul, and that by vertue of the<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Col. 1.18. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 <hi>Cor.</hi> 15.20, 57.</note> Resurrection of our Saviour, who is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>God-Man,</hi> in Unity of Person, and<note n="(d)" place="margin">1 <hi>Tim</hi> 2 6.</note> who is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Ransome for all,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a<note n="(e)" place="margin">1 <hi>John</hi> 2.2</note>
+               <hi>Propitiation for our sins.</hi> Wherefore the Excellency of this Comfort as delivered unto us in our Scripture, is very transcendent and pe<g ref="char:EOLhyphen"/>culiar to holy Writ.<note n="(c)" place="margin">1 <hi>Tim.</hi> 3.16</note>
+            </p>
+            <p>Behold I beseech you the Comfort of a <hi>Christian;</hi>
+               <pb n="33" facs="tcp:114968:19"/> That though the earthly Tabernacle of our Body be taken down by the irrisistible Hand of Death, and every pin of it thrown into the silent Land of humane forgetfulnesse: yet the most <hi>Wise, Powerful</hi> and <hi>Faithfull God</hi> shall<note n="(f)" place="margin">
+                  <hi>Rev.</hi> 20, 12, 13. 1 <hi>Cor.</hi> 15.53, 54.</note> raise up this ruined Ta<g ref="char:EOLhyphen"/>bernacle, and return every pin into his right place, and restore the Immortall soul unto her ancient Lodgings, which are now beautified with such ir<g ref="char:EOLhyphen"/>radiancies of Glory, that<note n="(g)" place="margin">
+                  <hi>Mat.</hi> 13.43</note> the Sun in the Meri<g ref="char:EOLhyphen"/>dian is not more illustrious. Then shall the Soul with the Body be brought into the presence of God,<note n="(h)" place="margin">
+                  <hi>Psa.</hi> 16.11</note>
+               <hi>in whose presence is fulnesse of joy, and at whose right hand are pleasures for ever more.</hi> Then shall the Soul with the Body, be admitted into the new <hi>Hierusalem,</hi> where there is
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q> no Snow, nor Winter, nor Raine, as<note n="(i)" place="margin">Odys. Δ:</note>
+               <hi>Homer</hi> speaks of his <hi>Elysian Fields,</hi> where there is no Night, no Candle, nor Light of the Sun, as<note n="(k)" place="margin">
+                  <hi>Rev.</hi> 22.5</note> Saint <hi>John</hi> speaks of the holy City, where there are<note n="(l)" place="margin">
+                  <hi>Rev.</hi> 21.4.</note>
+               <hi>No Tears, no Sin, no Enemies, no Tentations,</hi> as may be proved out of the 21<seg rend="sup">th.</seg> and 22<seg rend="sup">th.</seg> Chapters of the <hi>Revelations.</hi>
+            </p>
+            <p>In a word, then shall the Soul with the Body<note n="(m)" place="margin">
+                  <hi>August</hi> de civit. Dei lib. 22. cap. 29. &amp; cap. 30. <hi>August.</hi> Medit. cap. 22. &amp; cap. 27.</note> solace it self eternally in the blessed society of Saints and Angels: Satisfie it self without satiety, in beholding the God of glory<note n="(n)" place="margin">1 <hi>Cor.</hi> 13.12.</note>
+               <hi>face to face.</hi> And take an actual and<note n="(o)" place="margin">
+                  <hi>Mat.</hi> 25.34</note> personal possession of that Inheritance, which is the<note n="(p)" place="margin">
+                  <hi>Col.</hi> 1.12.</note>
+               <hi>inheritance of the Saints in Light, which is an</hi>
+               <note n="(q)" place="margin">1 <hi>Pet.</hi> 1.4.</note>
+               <hi>Inheritance uncorruptible, and
+<pb n="34" facs="tcp:114968:20"/> undefiled, and that fadeth not away, reserved in Heaven for us.</hi> I shall conclude with the Rhetoricall Cli<g ref="char:EOLhyphen"/>max of Saint <hi>PAƲL,</hi> 1 <hi>Cor.</hi> 3.9: <hi>Eye hath not seen, nor Ear heard, neither have entred into the Heart of Man, the things which God hath prepared for them that love him. Wherefore comfort one another with these words.</hi>
+            </p>
+            <div type="biography">
+               <head>A Brief Narrative of the Life and death of Mr. THOMAS BALL.</head>
+               <p>I Have finish't my Text, finish't it with a willing brevity, that your candid Patience might in<g ref="char:EOLhyphen"/>dulge the more time, towards the just <hi>Panegyrick</hi> of this most Reverend Minister, Judicious Divine, and Faithful Servant of Jesus Christ.</p>
+               <p>And now I wish for the learning of <hi>Moses,</hi> the doubled Spirit of <hi>Elijah,</hi> the Elocution of <hi>David,</hi> and the smooth utterance of <hi>Isajah;</hi> that I might to the glory of God, to the honour of the Dead, and to the imitation of the living, recount with Truth, and Modesty, those Excellent Vertues, and Super-natural Graces which exemplarily shined in him.</p>
+               <p>But before I present an unpolished table of these lovely Vertues (the lines whereof ought to have been drawn by the curious pencil of some skilfull <hi>Apelles</hi>) give me leave to offer a short Narrative con<g ref="char:EOLhyphen"/>cerning his Birth, Parents, and Education.</p>
+               <pb n="35" facs="tcp:114968:20"/>
+               <p>The place of his Birth was <hi>Shropshire,</hi> a County not onely beautified with the tempting delights of Nature, and adorned with the rich fruits of the Earth, (as<note n="(a)" place="margin">De <hi>Britan.</hi> in comit. <hi>Salop.</hi>
+                  </note>
+                  <hi>Cambden</hi> relates) but also happy in the production of Men of Worth, both for Arts and Armes. Here was born that great Scholar, and most Eminent <hi>Cantabragian-Greek Professor,</hi> Mr. <hi>Andrew Downs,</hi> who was<note n="(b)" place="margin">
+                     <hi>Heinsius</hi> de <hi>Josepho Scali<g ref="char:EOLhyphen"/>gero</hi> in orat. Fun.</note>
+                  <hi>Eruditionis abyssus, scien<g ref="char:EOLhyphen"/>entiarum Mare, &amp; bonarum literarum Dictator;</hi> A Man of deep, vast, and commanding parts in all the spheare of humane Learning, who was not onely <hi>triûm linguarum Magister,</hi> expert in the three learn<g ref="char:EOLhyphen"/>ed Languages, but likewise another<note n="(c)" place="margin">
+                     <hi>A. Gellius</hi> noct. Attic lib. 17. cap. 17.</note>
+                  <hi>Mithrida<g ref="char:EOLhyphen"/>tes,</hi> in the exact Knowledge of divers other Tongues. Here was born that<note n="(d)" place="margin">
+                     <hi>Cambden</hi> de comit <hi>Salop</hi> circa finem.</note> Heroïck Spirit, who was as terrible to <hi>France</hi> for 24. years, as <hi>Han<g ref="char:EOLhyphen"/>nibal</hi> was to <hi>Rome</hi> after the Battel at <hi>Cannas,</hi> and was honoured with the name of the <hi>English Achilles.</hi> To omit the rest, here was born this Reverend Divine, Mr. <hi>THOMAS BALL,</hi> whose worth I shall not varnish over with the cheap colours of flourishing <hi>Rhetorick,</hi> but plainly repeat the words of the Psalmist, <hi>Psalm</hi> 87.6. <hi>The Lord shall count when he writeth up his people, that this Man, this Man was born there.</hi>
+               </p>
+               <p>His Parents were of good, and honest repute in the Town of <hi>Aberbury;</hi> they neither knew super<g ref="char:EOLhyphen"/>fluity, nor want. God gave unto them more, then <hi>Jacob</hi>
+                  <note n="(e)" place="margin">
+                     <hi>Gen.</hi> 28.20:</note> prayed for in his journy to <hi>Padan-Aram.</hi> God bestowed upon them that <hi>Viaticum,</hi> which <hi>Agur</hi> desired, <hi>Prov.</hi> 30.8. ult. verb. <hi>Give me neither Poverty nor Riches, feed me with food convenient for me.</hi>
+               </p>
+               <p>But why make I mentiō of his Parēts Condition?
+<pb n="36" facs="tcp:114968:21"/> as if Wealth were essential to true Worth, real Ho<g ref="char:EOLhyphen"/>nour is not built on the glittering foundatiō of refi<g ref="char:EOLhyphen"/>ned clay, the flourishing <hi>Lawrel</hi> of durable glory, doth not always grow in the guilded field of a brave <hi>Genealogy.</hi> That blood w<seg rend="sup">ch</seg> runs in vertuous Veines, is of as orient a colour, as that which flowes in a richer chanel. The ancient<note n="(f)" place="margin">
+                     <hi>Camerar.</hi> med. hist. part. 3. cap. 69.</note>
+                  <hi>Romans</hi> did joyne the Temple of <hi>Honour,</hi> to the Temple of <hi>Vertue;</hi> and they who industriously walked through this, did not miss of a <hi>Garland</hi> in the other. <hi>Plutarch</hi> records the names of many famous<note n="(g)" place="margin">Plutarch <hi>in vita</hi> Ciceron. Phocion.</note> Scholars who have been born under the thacht roof of a smokie cot<g ref="char:EOLhyphen"/>tage, and yet replenished the World with the <hi>im<g ref="char:EOLhyphen"/>mortal Monuments</hi> of their high deservings.</p>
+               <p>His Education was liberal, that is, he was train<g ref="char:EOLhyphen"/>ed up in a way of Learning; a way of late much neglected, and thereby over-grown with many ve<g ref="char:EOLhyphen"/>nemous herbs and infectious weeds; the which if Authority do not timely pull up, they will seed in<g ref="char:EOLhyphen"/>to a Wildernesse of Errours, and draw us into the Labyrinths of Confusion.</p>
+               <p>His Genius had a natural propension unto Learn<g ref="char:EOLhyphen"/>ing, the which all they who are Parents ought to observe in reference to their own children; for<note n="(h)" place="margin">Ex quovis ligno non fit <hi>Mercurius.</hi> Vid. <hi>Erasmi</hi> adag. chil. 2. cent. 5.</note>
+                  <hi>Mercury</hi> is not made of every wood, nor a Scholar of every block. And he expressed his aptitude, by his constant, and unconstrained industry about his book. I have been credibly informed, that his Fa<g ref="char:EOLhyphen"/>ther not prevailing with words, to bring him from his study, hath divers times risen from his bed in the night to put out his Candle. And when upon his Fathers second Marriage, his Mother in Law being something soure, denyed him the benefit of
+<pb n="37" facs="tcp:114968:21"/> a Candle for his study, he did often make use of that Light, which our children call<note n="(i)" place="margin">
+                     <hi>Gen.</hi> 1.6.</note>
+                  <hi>Gods Candle,</hi> that is, <hi>the Moon,</hi> and by the free reflection of those beams (his Eyes being young and good) prepared his dictates and exercises to his Schoolmasters great contentment.</p>
+               <p>How good a Proficient he was in Grammaticall Learning, before he was admitted into the <hi>Ʋniver<g ref="char:EOLhyphen"/>sity,</hi> may evidently appear; in that he was accep<g ref="char:EOLhyphen"/>ted for an Usher, in the popularly-famous School of Mr. <hi>Puller</hi> of <hi>Epping,</hi> in the County of <hi>Essex,</hi> where he continued for the space of two years, or there a<g ref="char:EOLhyphen"/>bouts, hereby admonishing all Parents who dedi<g ref="char:EOLhyphen"/>cate their children as<note n="(i)" place="margin">1 <hi>Sam.</hi> 1.28.</note> religious <hi>Hannah</hi> did dedi<g ref="char:EOLhyphen"/>cate her young <hi>Samuel</hi> to the ministeriall service of God, not to launch them out too early into the sea of the <hi>Ʋniversity,</hi> but first to balast them with a good measure of Grammatical Learning, and with some staiednesse of Judgement, lest they be swal<g ref="char:EOLhyphen"/>lowed up in their voiage, by the quick sands of Ignorance, or ship-wrackt against the rocks of evil company, when they are in the Haven of Hope.</p>
+               <p>From this School, which like a little River, did pay every year some tribute to the Ocean of the <hi>Ʋniversity,</hi> he removed to <hi>Cambridge,</hi> was admitted into <hi>Quéenes Colledge,</hi> entertained by Doctor <hi>Preston</hi> as his Pupil, through the pleasing violence of a friendly Letter, which the foresaid Mr. <hi>Puller</hi> writ in his high commendation.</p>
+               <p>The learned Doctor, notwithstanding the Letter, did take but ordinary notice of him, well knowing that the commendatory Lette<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of related friends, are like to multiplying Glasses, which discover
+<pb n="38" facs="tcp:114968:22"/> atomes, and make a small mole-hill appear like a great mountain. But now behold, and in behold<g ref="char:EOLhyphen"/>ing admire the strange actings of <hi>Divine Providence,</hi> for that Providence which nimbly moves upon in<g ref="char:EOLhyphen"/>visible wheeles, turned out an opportunity, where<g ref="char:EOLhyphen"/>in this <hi>Reverend Minister</hi> did shew his naturall face, without the suspicious reflection of any borrowed glass.</p>
+               <p>The Doctor was one night discoursing to his pu<g ref="char:EOLhyphen"/>pils concerning that sublime, and incomprehensible mystery of the ever blessed Trinity; he clearly pro<g ref="char:EOLhyphen"/>ved it was<note n="(k)" place="margin">1 <hi>John</hi> 5.7. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. S. <hi>Athanas.</hi> in symb.</note> a Truth in Divinity, though it seemed otherwise in Arithmetick, <hi>That three should be one, and one should be three.</hi> But this our Reverend de<g ref="char:EOLhyphen"/>ceased Friend, was not satisfied with the Doctors deep discourse, and therefore presumed, though he was then but a fresh man (for so they call those, who have not been one year in the University) to stay in the Doctors Chamber, after all the rest of the Pu<g ref="char:EOLhyphen"/>pils were gone, and then humbly signified his scru<g ref="char:EOLhyphen"/>ples, modestly propounded his Queries, earnestly beseeched his pardon if he had erred by an unad<g ref="char:EOLhyphen"/>vised boldnesse. The Doctor perceiving there were some hard knots in those Queries, tould him, he would take some time to untie them, the which he did the next night very satisfactorily. And from that time forward (as I am credibly informed) did cast an observing Eye, on this our Worthy Freind: not such an observing Eye as<note n="(l)" place="margin">1 <hi>Sam.</hi> 18.9.</note>
+                  <hi>Saul</hi> did cast on <hi>David,</hi> which was an Eye of displeasure and envy, but such a one as<note n="(m)" place="margin">1 <hi>Sam</hi> 20 41.</note>
+                  <hi>David</hi> cast on <hi>Jonathan,</hi> which was an Eye <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> sincere Respect, and of hearty Affection.</p>
+               <pb n="39" facs="tcp:114968:22"/>
+               <p>This Cordial Affection was demonstrated by the Doctor, when he was chosen to be Master of <hi>Emanuel Colledge,</hi> for he did not leave him behind, but per<g ref="char:EOLhyphen"/>ceiving his growing parts in a pregnancy of Under<g ref="char:EOLhyphen"/>standing, a solidity of Judgement, an unusual strength of Memory, and a prudential reservedness, as also observing that none of these perfections were tainted with the Flie of <hi>Pride,</hi> or corrupted with the Canker of <hi>Morosity,</hi> did translate him as a choice flower from the garden of <hi>Queenes Colledge,</hi> &amp; planted him as an Ornament in the Colledge of <hi>Ema<g ref="char:EOLhyphen"/>nuel,</hi> and ever after esteemed him, not onely as his beloved Pupil, but as his bosome friend, and most intimately private familiar.</p>
+               <p>In <hi>Emanuel Colledge</hi> he was quickly honoured with a <hi>Fellowship.</hi> For such great parts could not be long obscured, and in a Colledge of so much Learn<g ref="char:EOLhyphen"/>ing, could not be long unrewarded, especially being illustrated with the propitious beams of so bright a Planet, as the Master of the Colledge. And whilst he was fellow, his learned Determinations in the Colledge, his elaborate common-places in the chap<g ref="char:EOLhyphen"/>pel, his solid exercises in the Schools, his well studi<g ref="char:EOLhyphen"/>ed Sermons at St. <hi>Maries,</hi> his visible, and yet pru<g ref="char:EOLhyphen"/>dentially invisible government of the Colledge, his almost incredible multitude of Pupils, and his in<g ref="char:EOLhyphen"/>defatigable pains in a faithful discharge of the high trust of their Education, did loudly proclaime him a <hi>Man of vast parts, and of singular excellency.</hi>
+               </p>
+               <p>From this place, wherein he lived both in Ho<g ref="char:EOLhyphen"/>nour and Plenty, (I speak knowingly what I speak▪) he was not onely invited, but importuned by the unanimous suffrages of this Corporation. Nay fur<g ref="char:EOLhyphen"/>ther,
+<pb n="40" facs="tcp:114968:23"/> he was not onely entreated, but zealously solli<g ref="char:EOLhyphen"/>cited by the affectionate Letters of the neighbour<g ref="char:EOLhyphen"/>ing Ministers, to accept the heavy burthen of the charge of souls, in this populous Congre<g ref="char:EOLhyphen"/>gation.</p>
+               <p>How slow this <hi>good Man</hi> was to undertake this burden, I have heard from his own mouth, and little wonder at it,<note n="(n)" place="margin">Vid. <hi>Chry<g ref="char:EOLhyphen"/>sost.</hi> de sacer<g ref="char:EOLhyphen"/>dotio passim.</note> when I call to mind those necessa<g ref="char:EOLhyphen"/>ry qualifications, wherewith every Minister of Christ ought to be furnished, and think upon the Question of the holy Apostle, 2 <hi>Cor.</hi> 2.16. <hi>Who is suf<g ref="char:EOLhyphen"/>ficient for these things?</hi> But yet that he might not like <hi>Jonas,</hi> flie to <hi>Tarshish,</hi> when God gave him a call to <hi>Ninive,</hi> he would not acquiesce in his own Judgement, but communicated the business to di<g ref="char:EOLhyphen"/>vers Reverend Ministers, his worthy Friends, who were occasionally met at <hi>Cambridge,</hi> by reason of the Commencement; he desired them to appoint a meeting, for the debate of the Question concerning his stay or removal. These Reverend Ministers did appoint a time of meeting, and after the impartial ballancing of all arguments, they judged the argu<g ref="char:EOLhyphen"/>ments for his removal, to be the most weighty, in the scales of the Sanctuary; and agreed in this result; That they apprehended he might be more instru<g ref="char:EOLhyphen"/>mental in order to the Glory of God, &amp; to the salva<g ref="char:EOLhyphen"/>tion of Souls, in yielding to the earnest desires of so numerous a people as <hi>Northampton,</hi> then he was likely to be, in case he should refuse. Whereupon he expressed so much self-denyal, that he opened his Ears to the imporunities of this ancient corpora<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Thus I have (through the assistance of your Pa<g ref="char:EOLhyphen"/>tience)
+<pb n="41" facs="tcp:114968:23"/> brought this worthy <hi>Divine</hi> to <hi>Northampton;</hi> I might without any violence to civility, leave him amongst you; Divers of your selves, are able from your own Knowledge, to build him a fairer <hi>Monu<g ref="char:EOLhyphen"/>ment,</hi> then my weaknesse is able to rear. But the greedy Eye of expectation glances upon me, there<g ref="char:EOLhyphen"/>fore vouchsafe to enlarge your attention, whilst I briefly take an impartial view of his real dimēsions. I for my self do faithfully promise, not to violate the Sanctuary of any mans Ear, with the<note n="(o)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Arist.</hi> Eth. lib. 4. cap. 7.</note> pro<g ref="char:EOLhyphen"/>phane invasion of any willing untruth. Let rotten posts be guilded, and decayed beauties painted, true Vertue like a precious Diamond needes no varn<g ref="char:EOLhyphen"/>ish.</p>
+               <p>I will view him in his natural Endowments, wherein if Envy her self sets in the chaire, she must <milestone type="tcpmilestone" unit="unspecified" n="1"/> pronounce him excellent.</p>
+               <p>You all know he had a natural faculty of a <hi>quick Apprehension,</hi> whereby he could insensibly pierce be<g ref="char:EOLhyphen"/>yond the bark of the Tree, I mean, the dull super<g ref="char:EOLhyphen"/>ficies of a formall discourse. He had an exquisit<g ref="char:EOLhyphen"/>nesse of Apprehension, which I might call <hi>Intuition,</hi> whereby he could sudainly &amp; imperceptibly strike to the very center of a politick, and obscure intend<g ref="char:EOLhyphen"/>ment. He had a natural dexterity of Wit, in the neat managing of a lawful Plot, through all the ho<g ref="char:EOLhyphen"/>nest <hi>Maeanders</hi> of it. In a word (for I know not how to expresse my thoughts) he had a naturall Genius to countermine a deep design, when the agents ima<g ref="char:EOLhyphen"/>gined they had the Ring of <hi>Gyges</hi> to walk invisible. All this was so well known to the <hi>Honourable Com<g ref="char:EOLhyphen"/>mittee,</hi> which in the time of our unnatural civil Wars resided in this place, that (as some of you can
+<pb n="42" facs="tcp:114968:24"/> testifie) they transacted little of greatest concern<g ref="char:EOLhyphen"/>ment without his advice. They knew that <hi>Samuel</hi> was a Prophet, and yet a<note n="(p)" place="margin">1 <hi>Sam.</hi> 7.15.</note> Magistrate. That <hi>Moses</hi> was a<note n="(q)" place="margin">
+                     <hi>Psal.</hi> 99.6.</note> Priest, and yet acted in<note n="(r)" place="margin">
+                     <hi>Exod.</hi> 18.25, 26.</note> civil govern<g ref="char:EOLhyphen"/>ment. That God hath not given gifts in vain unto his Ministers, but that some Ministers are of such large parts, and capacious Souls, that they are able to discharge to the glory of God, and to the good of the Nation, both <hi>Ecclesiastical</hi> and <hi>Civil</hi> imploy<g ref="char:EOLhyphen"/>ments.</p>
+               <p>Oh how happy was he in his Memory! he did so excell in that natural faculty, that if there be an <hi>Ars Memoriae,</hi> (which both<note n="(r)" place="margin">
+                     <hi>Aq.</hi> 22<seg rend="sup">•</seg> q. 49.1. ad 2<seg rend="sup">tm</seg>. <hi>Cicero</hi> lib 3. ad Heren. circa finem <hi>Bruxius,</hi> &amp;c. de art. me<g ref="char:EOLhyphen"/>moriae.</note>
+                  <hi>Aquinas, Cicero,</hi> and many others maintaine) he deserved to have been the publick Professor of it. History tells us of the Memory of<note n="(s)" place="margin">
+                     <hi>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>merar.</hi> med. Hist. part. 3. cap 50: Quantâ memo<g ref="char:EOLhyphen"/>riâ <hi>Cyneas,</hi> quantâ nuper <hi>Carneades,</hi> &amp;c. <hi>Cicero</hi> Tuscul. quaest lib. 1. circa medium.</note>
+                  <hi>Cyneas,</hi> who is reported to have con<g ref="char:EOLhyphen"/>quered more Cities by his tongue, then his vali<g ref="char:EOLhyphen"/>ant Master did conquer by his sword; of the me<g ref="char:EOLhyphen"/>mory of <hi>Cyrus,</hi> who was fore-told in Scripture by his proper name, two hundred years before he was born; Of the Memory of <hi>Themistocles,</hi> who desired to learn<note n="(w)" place="margin">
+                     <hi>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cero</hi> lib. 1. de finib.</note> the art of forgetfulnesse, and of the Memory of <hi>Caesar,</hi> who was the Conqueror of the Western world. But (under better Judgement) the Memory of this Reverend <hi>Divine,</hi> was not much in<g ref="char:EOLhyphen"/>feriour (I conceive not very much inferiour) to a<g ref="char:EOLhyphen"/>ny of these.</p>
+               <p>I my self have heard him say, that he could per<g ref="char:EOLhyphen"/>fectly repeat all the New Testament, when he was but under-graduate in the <hi>Ʋniversity.</hi> I am informed by one I dare believe, that he often tried the pun<g ref="char:EOLhyphen"/>ctual exactness of his Memory, by naming divers sentences in the Old Testament, and divers senten<g ref="char:EOLhyphen"/>ces
+<pb n="43" facs="tcp:114968:24"/> in the New Testament, and that this Worthy Minister, your late Pastor, hath told him the Book, the Chapter, and the Number of the Verse without any failing. Your selves of this Parish are the un<g ref="char:EOLhyphen"/>doubted Witnesses, that in his publick Ministry he was very plentifull in Scripture-proofs, yet he ne<g ref="char:EOLhyphen"/>ver made use of any Bible, but onely of his Memo<g ref="char:EOLhyphen"/>ry; and when as some have purposedly examined his quotations, they have found them true, even to the Verse it self. Give me leave to conclude this discourse, with an innocent, &amp; as <hi>I</hi> hope, an inoffen<g ref="char:EOLhyphen"/>sive appeal to you my honoured brethren in the Mi<g ref="char:EOLhyphen"/>nistry; you do well know, to your no little pains, that the usual way of our daily studies is to imitate the laborious Bee, who gathers the pleasant hony by an industrious flying up and down among the fra<g ref="char:EOLhyphen"/>grant flowers: and when the sweet is with some sweat collected, to carry the delectable notions to their proper hives, and to lay them up in their several places and distinct Cells; But this our Reverend Brother (may <hi>I</hi> not in reverence to his Age, and great Parts call him <hi>Father</hi>) was so happy in his Memory,<note place="margin">
+                     <hi>Longinus</hi> à ve<g ref="char:EOLhyphen"/>terib. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> audivit. Voss. Instit. Orat.</note> that his <hi>Hive</hi> or <hi>Common-place book</hi> to treasure up his various Readings, was his <hi>Head;</hi> the Cells wherein he disposed his select Notions, was his Braine; the repository for his Divine and Humane Learning was his Soul; So that he might be called as <hi>Longinus</hi> of old, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a living Libra<g ref="char:EOLhyphen"/>rie.</p>
+               <p>From these natural endowments, my Method leads me to take a view of his moral perfections, and herein if detracting <hi>Momus</hi> were created Judge, he would (without doubt) stick a <hi>Lawrel</hi> upon his<note n="(x)" place="margin">Virtutem incolumem odimus, Subla<g ref="char:EOLhyphen"/>tam ex oculis quaerimus invi<g ref="char:EOLhyphen"/>di. <hi>Hor.</hi> car. lib. 3. od. 24.</note> tomb.</p>
+               <pb n="44" facs="tcp:114968:25"/>
+               <p>First take a view of his <hi>Prudence,</hi> which is the middle Jewel in the royal chaine of Vertues, and holds all the other precious stones in due Order and Lustre.</p>
+               <p>There is a threefold <hi>Prudence,</hi> the one <hi>Oeconomi<g ref="char:EOLhyphen"/>cal,</hi> the other <hi>Political,</hi> the last <hi>Theological.</hi> There are three principal acts of this<note n="(z)" place="margin">
+                     <hi>Arist.</hi> Eth. lib. 6. cap. 5.</note>
+                  <hi>Prudence.</hi> The first is, to see the right End. The second is, to delibe<g ref="char:EOLhyphen"/>rate on the right means, to compasse this right End. The Third to execute those deliberations in the right season: in all these particulars (but that I fear the wearying of your Patience) I could repre<g ref="char:EOLhyphen"/>sent him very exemplary.</p>
+               <p>It is true, he was alwaies desirous of <hi>Debates,</hi> be<g ref="char:EOLhyphen"/>fore the settlement of a Resolution upon the Que<g ref="char:EOLhyphen"/>stion, but doubtlesse herein, if in any thing he de<g ref="char:EOLhyphen"/>clared himself a pattern of <hi>Prudence.</hi> For he knew by long experience, that the<note n="(a)" place="margin">Ita pro<g ref="char:EOLhyphen"/>fundissimum caenum vestit fragilis indig<g ref="char:EOLhyphen"/>nâ fronde ces<g ref="char:EOLhyphen"/>pes, nec ipsis anguib: pul<g ref="char:EOLhyphen"/>chrum veneni tegmen versi<g ref="char:EOLhyphen"/>colore tergo, &amp; squamis fulgen<g ref="char:EOLhyphen"/>tib. deest. <hi>Eu<g ref="char:EOLhyphen"/>phor.</hi> s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. lib. 1.</note> speckled Serpent lyes hid under the Verdant Grasse; That gallant Ships are split by concealed Rocks; That deep pits are covered with mosse and leaves; That privy am<g ref="char:EOLhyphen"/>bushes have slain many brave Cōmanders, &amp; unseen dangers have constrained ignoble, &amp; base retreats; Therefore he would seriously deliberate in all mat<g ref="char:EOLhyphen"/>ters of weight, before he would finally determine. The Motto of <hi>Non putabam</hi> may hide a green Head, but it is a yellow coat for grey haires.</p>
+               <p>I know he was very a verse (though frequently and earnestly desired) to publish some of his learn<g ref="char:EOLhyphen"/>ed Sermons, and choisest Meditations, but this is certainly no blemish to his <hi>Prudence,</hi> for<note n="(a)" place="margin">Membra<g ref="char:EOLhyphen"/>nis intùs positis delere licebit, quod non edi<g ref="char:EOLhyphen"/>deris, nescit vox missa re<g ref="char:EOLhyphen"/>verti. <hi>Hor.</hi> de art. poët.</note> he knew <hi>nescit nox missa reverti,</hi> that what words are printed, cannot (with a fulnesse of reputation) be recalled,
+<pb n="45" facs="tcp:114968:25"/> and although it be a laudable ingenuity to recant an inadvertency, and to confesse in a sheete an un<g ref="char:EOLhyphen"/>willing Errour; yet it leaves a scarr of imprudent Rashnesse, or of Vain-glorious Ambition in riding post unto the Press. <hi>Plautus</hi>
+                  <note n="(b)" place="margin">Audivi sae<g ref="char:EOLhyphen"/>pe hoc vulgò dicier, solere Elephantum gravidam per<g ref="char:EOLhyphen"/>petuos decem esse annos] <hi>Plaut.</hi> in sty<g ref="char:EOLhyphen"/>cho. act. 2. Sc. 1.</note> reports that the Elephant is ten years in breeding, but when she brings forth she is delivered of an Elephant, where<g ref="char:EOLhyphen"/>as some light skipping-Creatures are fruitful in Toyes, and expose to the Charity of Nature, <hi>poor creeping things every Month.</hi>
+               </p>
+               <p>
+                  <hi>I</hi> remember when <hi>I</hi> did passionately desire him, to print a <hi>very rational Tract,</hi> called <hi>Pastorum propug<g ref="char:EOLhyphen"/>naculum,</hi> and suggested with some familiar heat the longing expectation of diverse, his reply was that of the<note n="(c)" place="margin">
+                     <hi>Hor.</hi> de art. Poët.</note>
+                  <hi>Satyrist,</hi>
+                  <q>
+                     <l>— Librum reprehendite, quem non</l>
+                     <l>Multa dies, &amp; multa litura coercuit, at{que}</l>
+                     <l>Perfectum decies non castigavit ad unguem.</l>
+                  </q> Set no value upon that printed Book, which a hasty negligence hath slubbered over. And when a friend of mine, did in my presence, ask his judgement concerning the printing of a Tract, which he had prepared for the Press, his Answer was in these very words, — <hi>Nonum prematur in annum,</hi> which <hi>I</hi> may thus English. <hi>Let a Writer be nine years in travel, before the Presse be a Midwife to deliver him.</hi>
+               </p>
+               <p>His faithfulnesse to his friend was a Vertue most resplendent in him, he was not like the<note n="(c)" place="margin">Vid. <hi>Mes<g ref="char:EOLhyphen"/>sarij</hi> annot. cap 30. ad. 9. <hi>Plinij</hi> lib. de piscib.</note>
+                  <hi>Polypus,</hi> which often changeth his colour, nor like sick men in a Feverish distemper, who delight in changing their Beds, but he took much pleasure in an honest
+<pb n="46" facs="tcp:114968:26"/> Constancy.<note n="(d)" place="margin">
+                     <hi>Diog.</hi> La<g ref="char:EOLhyphen"/>ert in vita <hi>So<g ref="char:EOLhyphen"/>lon.</hi> circa med.</note> Herein he followed the prudent ad<g ref="char:EOLhyphen"/>monition of <hi>Solon,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Do not hastily get friends, but if thou hast gotten them, do not throw them away. <hi>I</hi> cannot parallel him better in regard of this worthy quali<g ref="char:EOLhyphen"/>fication, then with the wise <hi>Mecaenas,</hi> who as<note n="(e)" place="margin">Lib. 1. serm. 6.</note>
+                  <hi>Horace</hi> testifies was very curious in the admission of any new names into the Catalogue of his old friends; but if he had once enrolled them, he would not wrong his Judgement, by a speedy blotting them out. This reverend Minister was never guil<g ref="char:EOLhyphen"/>ty of that<note n="(f)" place="margin">Nam viti<g ref="char:EOLhyphen"/>is nemo sine nascitur, opti<g ref="char:EOLhyphen"/>mus ille qui minimis urgetur. <hi>Hor.</hi> lib. 1. sat. 3.</note> dangerous weaknesse of divers well meaning honest men, who throw away precious Gold, because of some drosse, and despise good fruit because of one or two specks, as if a sweet Vine must be cut down because of some sour grapes, or the lovely <hi>Moon</hi> must not shine in the skie, because she hath some spots in her face. — But <hi>I</hi> forget my self, and must hasten to his Theological endow<g ref="char:EOLhyphen"/>ments, wherein he will appear very exemplary.</p>
+               <p>And now I am hoising saile into a wide Ocean, and know not which of the many wayes to steer; that <hi>I</hi> may quickly arrive at the desired Haven; Be pleased but for a few Moments to enlarge the favourable gale of your Patience, &amp; <hi>I</hi> shall speedily cast Anchor.</p>
+               <p>All Theological Graces are reduced by<note n="(g)" place="margin">Vide <hi>Aug. Hunnaei</hi> Schema gen praefix 2<seg rend="sup">•.</seg> 2<seg rend="sup">•</seg>. <hi>Aquinatis.</hi>
+                  </note>
+                  <hi>Aqui<g ref="char:EOLhyphen"/>nas,</hi> to these three supernatural habits, namely, <hi>Faith, Hope,</hi> and <hi>Charity.</hi> Let us contemplate this our deceased and Reverend friend in order to these three Graces. And that we may not be deluded as<note n="(h)" place="margin">1 <hi>Sam</hi> 19.16.</note>
+                  <hi>Sauls</hi> Messengers were with an image, or as <hi>Ixion</hi> was with a cloud, let us look upon him, and upon them, through the un-erring perspective of
+<pb facs="tcp:114968:26"/> his constant actings, in all those various Relations, wherein Divine Providence placed him, for as the Sun is known by his Light, and the Diamond by his sparklings, so is true Grace discovered by the <hi>con<g ref="char:EOLhyphen"/>stant Operations of it.</hi>
+               </p>
+               <p>The first Relation <hi>I</hi> knew him in, was of a Tutor to his Pupils, a Relation which will bring Grace and Vertue to the test, a Relation wherein he expressed so great a measure of Piety, Charity, Learning, Art, Industry, and Sincerity, that <hi>Dr. Preston</hi> upon his Death-bed bequeathed<note n="(i)" place="margin">Mr. <hi>Fiennes</hi> Brother to the right Honou<g ref="char:EOLhyphen"/>rable the Earl of <hi>Lincoln.</hi>
+                  </note> his most eminent Pupils to his care, and Tuition.</p>
+               <p>It is recorded of <hi>Alured</hi> King of <hi>England,</hi> that he divided the natural day into three parts; One part he spent in matters of Religion,<note place="margin">Mr. <hi>Rich,</hi> son to the right Honourable the late Earl of <hi>Warwick.</hi> Sir <hi>Gilbert Pickering,</hi> &amp;c.</note> another part in matters of Justice and Government, a third part in Sleep, Food, and Recreation. But this eminent Divine, did spend the most part of the day, in the promotion of Godlinesse and Learning. For every Morning he read to his pupills, <hi>Logick, Ethicks,</hi> and <hi>Philosophy,</hi> in the Afternoon he read unto them, <hi>Greek</hi> and <hi>Hebrew,</hi> at 8. of the clock, every Night, his Pupils met in his Chamber, where upon several nights, several Excercises were performed. Some Nights were appointed for Orations, other Nights for Disputations. Every Night all the under gra<g ref="char:EOLhyphen"/>duates did shew unto him some few remarkable Collections, out of those Authors which he appoint<g ref="char:EOLhyphen"/>ed them to read. So that there was neither Day nor Night <hi>sine linea,</hi> without some seasonable academi<g ref="char:EOLhyphen"/>call employment. —But this was not all, for so soon as the prementioned Exercitations were
+<pb n="48" facs="tcp:114968:27"/> dispatched, then a Chapter, either out of the Old Testament, or out of the New, was constantly read, the which Chapter he would exactly analyze accor<g ref="char:EOLhyphen"/>ding to the rules of Art, without looking upon a Bible. After this Brief Analyze, he would hand<g ref="char:EOLhyphen"/>somely draw aside the curtaine of Obscurity, from any very difficult Verse in that Chapter, then he would acutely hint some few practical Observati<g ref="char:EOLhyphen"/>ons for the rule of a good life, and lastly close up all with a prayer unto God. This was the laborious method, and constant practice of this most reverend Minister, all the while I had the honour and com<g ref="char:EOLhyphen"/>fort to enjoy the happy communion of his Tuition.</p>
+               <p>His second Relation was conjugal, wherein God pleased to make him much happier then <hi>Solomon,</hi> for <hi>Solomon</hi> certifies us, <hi>Ecclesiastes</hi> 7.28. <hi>That he had found one good man amongst a thousand, but a good woman a<g ref="char:EOLhyphen"/>mong all these he had not found.</hi> But this our worthy friend was blessed in the Marriage of three Religi<g ref="char:EOLhyphen"/>ous, and Vertuous Gentlewomen, the last of which is now surviving, whose tender Affections, sincere Love, unwearied Diligence, and exemplary Piety, will render her both beloved, and respected in the Hearts and Tongues of all those who value Good<g ref="char:EOLhyphen"/>nesse and prize Vertue.</p>
+               <p>How this Reverēd Minister acted under this multi<g ref="char:EOLhyphen"/>plied relatiō, is known to very māy of you. And that he acted according to the sure principles of Religi<g ref="char:EOLhyphen"/>on and Prudence, may be demonstrated from the real Love, complacentious agreement, perpetual faithfulness, and affectionate Observance expressed
+<pb n="49" facs="tcp:114968:27"/> from every one of these <hi>Wives</hi> unto him. I shall conclude this with that of <hi>Solomon, Proverbs</hi> 19.14. <hi>Honour and Riches are the inheritance of Fathers, but a prudent Wife is from the Lord.</hi>
+               </p>
+               <p>His third Relation was paternal, and herein God hath blest him with a hopeful posterity, my Exhor<g ref="char:EOLhyphen"/>tation to them is this. That they endeavour to grow in the habits and exercises of Grace and Vertue: that so their religious, prudent, and humble con<g ref="char:EOLhyphen"/>versation may be the living <hi>Monuments of their Fa<g ref="char:EOLhyphen"/>thers Worth.</hi>
+               </p>
+               <p>His fourth and last Relation was Ministerial, wherein he shewed himself a wise Master builder in the Church of God, a workman that needeth not to be ashamed, rightly dividing the Word of Truth.</p>
+               <p>And now I am entred into a most pleasant Gar<g ref="char:EOLhyphen"/>den, beautified with many lovely, and sweet flowers, and know not which sort of flowers to crop, that I may without tediousnesse compose a fragrant Garland to crown his Temples withall. If I should tell you, that he was <hi>Faithful, Painful,</hi> and <hi>Charitable,</hi> that he was <hi>Learned, Pious,</hi> and <hi>Solid,</hi> that he was <hi>Meek, Humble,</hi> and <hi>Gracious,</hi> I should tell you no more then what I am perswaded, the most of you here present will readily at test.</p>
+               <p>You of this Town are the unquestionable Testi<g ref="char:EOLhyphen"/>monies of his <hi>Ministerial Faithfulnesse.</hi> You remem<g ref="char:EOLhyphen"/>ber the Year of our Lord 1638. (a Year never to be forgotten) at which time this Town was visited with that uncomfortable, and usually uncurable <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>roake of the Plague or Pestilence, then did this
+<pb n="50" facs="tcp:114968:28"/> Reverend Minister, your Honoured Pastour, ex<g ref="char:EOLhyphen"/>presse so great a measure of <hi>a strong Faith in God,</hi> and of a Cordial Love to you, that he constantly preached with you every Lords Day, notwith<g ref="char:EOLhyphen"/>standing the great Mortality amongst you, and the known infection of that disease. A rare example of Pastoral Fidelity, and of sincere Affection; When as many Godly Ministers (it may be law<g ref="char:EOLhyphen"/>fully) do in the sad Times of the contagious Pe<g ref="char:EOLhyphen"/>stilence imitate <hi>Paul,</hi> in danger of his life,<note n="(k)" place="margin">1 <hi>Cor.</hi> 1.33.</note>
+                  <hi>who was let down through a Window in a Basket, and so e<g ref="char:EOLhyphen"/>scaped.</hi> Yea further, Some good Neighbours have observed, that this <hi>Reverend Minister,</hi> was in this Disconsolate Time (when Gods destroying Angell marched amongst you) more Spiritual, more Zeal<g ref="char:EOLhyphen"/>ous, more Heavenly, more Edifying, more Com<g ref="char:EOLhyphen"/>fortable, then at any other Time before; then he shewed himself a fixed Star, which shineth brightest in the most dark Night, then he shewed himself like the <hi>Palm Tree,</hi> which groweth streighter and higher, by being loaden with Weights, then he did like <hi>Moses, stand in the gap,</hi> and like <hi>Phineas, poured out Prayers,</hi> and at length the destroying Angel sheathed up his Sword, and the Plague stayed.</p>
+               <p>You my Reverend Brethren in the <hi>Ministery,</hi> are the competent<note n="(l)" place="margin">1 <hi>Cor.</hi> 14.32.</note> Judges, and Witnesses of the soundnesse of his Doctrine, and of his painfulnesse in the same. Many of you know, that he himself preached the Weekly Lecture for the space of 27. years, or thereabouts, notwithstanding his preach<g ref="char:EOLhyphen"/>ing on the Lords Day, &amp; his many other Occasion<g ref="char:EOLhyphen"/>all
+<pb n="51" facs="tcp:114968:28"/> Sermons. It is true he had a Conduit within him, but it must needs waste his Vitals, and weaken his Voice to turn the Cock so often. Moreover you may remember, that when you eased him of the burden of the Weekly Lecture, by taking it on your own shoulders, that then (though he was by reason of his Age, <hi>rude donandus,</hi> to be priviledg<g ref="char:EOLhyphen"/>ed from Polemical Service) you demonstrated your high Opinion of his Piety, Prudence, Learning, Oratory, and Solidity, in that you did make choice of him (by a common suffrage, <hi>Nemine con<g ref="char:EOLhyphen"/>tradicente</hi>) to compose a tract concerning the Gospel authority of <hi>Ministers,</hi> and the necessity of <hi>Ordina<g ref="char:EOLhyphen"/>tion, to constitute a lawful Minister of Jesus Christ.</hi> The which tract he published about two years before he dyed, of which tract I shall say but thus. <hi>It is a learned, Pious, and very rational Tract,</hi> woven with an even, and a strong thread, beautified with a more then ordinary <hi>Moderation.</hi>
+               </p>
+               <p>You who are the poore of the Town, are the <hi>li<g ref="char:EOLhyphen"/>ving Testimonies</hi> of his Charity, he will be seriously missed by many of you. There are divers amongst you who were privately, many of you who were Weekly, &amp; some of you who were daily relieved at his Doore. He was not like<note n="(m)" place="margin">
+                     <hi>Hos.</hi> 10.1.</note>
+                  <hi>Hosea's</hi> empty Vine, which bringeth forth fruit unto himself. Neither was he like<note n="(n)" place="margin">
+                     <hi>Luke</hi> 13.7.</note> St. <hi>Lukes Figg Tree,</hi> which cumbred the ground, but he was like<note n="(o)" place="margin">
+                     <hi>Psal.</hi> 1.3.</note>
+                  <hi>Davids Tree planted by the Rivers of Water, which bringeth forth his fruit in due season.</hi>
+               </p>
+               <p>Some of you, both of this and of other Towns, who have been like<note n="(p)" place="margin">
+                     <hi>Job</hi> 6.4. <hi>Jeremi.</hi> 15.18.</note>
+                  <hi>Job,</hi> or <hi>Jeremie</hi> wounded in
+<pb n="52" facs="tcp:114968:29"/> Spirit, are the thankful Witnesses of God in him; Whereby he could bind up the broken hearted, with a sweet Meeknesse, and apply the Balm of <hi>Gi<g ref="char:EOLhyphen"/>lead</hi> to the bleeding Soul, with a winning tender<g ref="char:EOLhyphen"/>nesse: he had an excellent gift to heal them, who felt the Arrowes of the Almighty stick fast in them, so that the poyson thereof did drink up their strength, he had a Divine Art to comfort them, who walked in darknesse and did see no light, so that they said at Evening, when will it be Morning, and at Morning when will it be Evening.</p>
+               <p>I must conclude, (craving pardon for my omission of many material things) he was visited with a long sickness, w<seg rend="sup">ch</seg> crept upon him <hi>pedetentim</hi> by degrees, his sickness was an apoplectical distemper, a distem<g ref="char:EOLhyphen"/>per to which hard studēts are vere prone, &amp; where<g ref="char:EOLhyphen"/>as divers eminent<note n="(q)" place="margin">
+                     <hi>Dr.</hi> Arrow<g ref="char:EOLhyphen"/>smith <hi>Mr.</hi> Obadiah Sedgwic<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Ministers have lately died. This distemper according to the nature of that dis<g ref="char:EOLhyphen"/>ease, did seize upon the <hi>Animal Spirits,</hi> and thereby did not onely occasiō him <hi>divers times to fall,</hi> both at home &amp; abroad, before he was sick (for such a strong Castle as his Braine was, could not with two or three assaults be stormed by any ordinary <hi>Apoplexy</hi>) but likewise prevailed so far in the time of his sickness, that it weakned his Memory, &amp; clouded his intelle<g ref="char:EOLhyphen"/>ctuals, so that he could not express his inward Gra<g ref="char:EOLhyphen"/>ces in the Beauty, and glory of them. But yet as the Sun doth sometimes break forth in lustre, notwith<g ref="char:EOLhyphen"/>stāding the overshadowings of the blackest clouds, so did he sometimes by sundry holy Ejaculations and spiritual Meditations, expresse to divers who were present, the inward Peace of his Soul, and the
+<pb n="53" facs="tcp:114968:29"/> sweet Communion he enjoyed with God.</p>
+               <p>He was even at his last, sensible of Heavenly things in <hi>some good Measure.</hi> And when his Voice began to fail him, and one of his worthy Friends asked him, whether he desired to be with Christ, <hi>he lifted up his hands in token of consent.</hi>
+               </p>
+               <p>And now I doubt not, but that <hi>he is with Christ:</hi> Oh happy is he to make so blessed an Exchange; to change sorrow for joy, labour for rest, sicknesse for health, mortality for eternity. I am perswaded he is in Heaven with the glorious company of the A<g ref="char:EOLhyphen"/>postles, the goodly fellowship of the Prophets, the noble army of Martyrs, and sings Hallelujahs with the quire of Angels, to him that sits upon the Throne, and to the Lamb for evermore.</p>
+               <p>We have cause to mourn, not he, we have cause to lament, not he, we have lost, but he hath gained, we are grieved, but he is cōforted, his work is done, and he is gon to <hi>receive</hi>
+                  <note n="(r)" place="margin">
+                     <hi>Matth.</hi> 25.21.</note>
+                  <hi>his wages,</hi> his Journy is finished, and he is admitted into his Fathers House. Let us sadly turn to the 57. chap of <hi>Isajah,</hi> the first verse, and silently meditate what these words may mean. <hi>The righteous perish, and no man layeth it to heart, and merciful men are taken away, and none consider that the righteous is taken away from the evil to come.</hi>
+               </p>
+               <p>I shall (though unwillingly) shut up all, with put<g ref="char:EOLhyphen"/>ting you in remembrance, that you of this Parish were the first-born of this most <hi>Reverend Minister,</hi> who is deceased, that you are his might, the excel<g ref="char:EOLhyphen"/>lency of his strength, and some of you (I hope) will be his<note n="(s)" place="margin">1 <hi>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ss.</hi> 2 19.</note> Crown, and rejoycing in the day of Je<g ref="char:EOLhyphen"/>sus Christ. Oh let his Name be precious to you,
+<pb n="54" facs="tcp:114968:30"/> let his Memory be honoured by you, expresse all decent filial returns to so aged, &amp; worthy a<note n="(t)" place="margin">1 <hi>Cor.</hi> 4.15</note> spi<g ref="char:EOLhyphen"/>ritual Father. Never forget those fundamental Truths, whereof he hath made you abundantly par<g ref="char:EOLhyphen"/>takers. And since through the blessing of God upon his labours in the Ministery, you are (at present) a people free from the<note n="(u)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 2 <hi>Tim.</hi> 2.17.</note> Gangreen of <hi>Errour,</hi> with which many Congregations are infected: Since through the grace of God, you of this Corporation are at present free from those over-spreading <hi>Tares</hi> of false Doctrine, wherewith many Neighbouring Fields are over-run; ô continue in the same purity, and keep your garments unspotted from such de<g ref="char:EOLhyphen"/>filements. Let not that which Astrologers usually speak of great Eclipses, prove true in the Eclipse of this your Reverend, and Learned Minister, that the sad Effects thereof will appear many years after.</p>
+               <p>And I now commend you to God, and to the Spi<g ref="char:EOLhyphen"/>rit of his Grace, which is able to comfort you with those comforts which are unspeakable and glori<g ref="char:EOLhyphen"/>ous, and also<note n="(w)" place="margin">1 <hi>Thess.</hi> 5.23.</note>
+                  <hi>able to keep you blamelesse untill the appearing of Jesus Christ,</hi> and beseech you in the mel<g ref="char:EOLhyphen"/>ting Language of the Apostle, <hi>Phil.</hi> 2.1, 2. <hi>That if there be any Consolation in Christ, any Comfort of Love, any Fellowship of the Spirit, any Bowels of Mercies, that ye fulfill my joy, that you be like minded, having the same Love, being of one accord, and of one mind.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114968:30"/>
+         </div>
+      </body>
+   </text>
+</TEI>
